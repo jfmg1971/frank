@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, group-title="SV", Canal 10
+#EXTINF:-1, group-title="SV" ,Canal 10
 https://5cf17f839d3ea.streamlock.net/tves/smil:tves.smil/playlist.m3u8?DVR
 
 #EXTINF:-1, SV - Canal 10
