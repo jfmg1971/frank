@@ -1,55 +1,54 @@
 #EXTM3U
 
-EL SALVADOR
-
-#EXTINF:-1, tvg-logo="" group-title="El Salvador", Canal 10
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Canal_10_%28El_Salvador%29_2019.svg" group-title="El Salvador", Canal 10
 https://5cf17f839d3ea.streamlock.net/tves/smil:tves.smil/playlist.m3u8?DVR
 
-#EXTINF:-1, tvg-logo="" group-title="El Salvador", Canal 10
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/88/Canal_10_%28El_Salvador%29_2019.svg" group-title="El Salvador", Canal 10
 https://5cf17f839d3ea.streamlock.net/tves/smil:tves.smil/chunklist_w208054811_b978000_sleng.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="El Salvador", TRV
+#EXTINF:-1, tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/02/TRV-El-Salvador-en-vivo-Online.png?fit=1920%2C1080" group-title="El Salvador", TRV
 https://panel.livetvvideo.net:1936/8182/8182/chunklist_w1170150541.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="El Salvador", TVO Televisión Oriental
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/CTqvmVwgjaedggqz_mv7zuSLsg8fVjz9hgqTgT7pgoPbFy9QRGCpn5khF3dwoyECw5E" group-title="El Salvador", TVO Televisión Oriental
+https://tvocanal23.com.sv
 
-#EXTINF:-1, tvg-logo="" group-title="El Salvador", TVM Televisión Migueleña
+#EXTINF:-1, tvg-logo="https://play-lh.googleusercontent.com/CTqvmVwgjaedggqz_mv7zuSLsg8fVjz9hgqTgT7pgoPbFy9QRGCpn5khF3dwoyECw5E" group-title="El Salvador", TVM Televisión Migueleña
 http://ispmanager.flynetwifi.com:1935/tvm/tvm.stream/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="El Salvador", Wow TV
+#EXTINF:-1, tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png?fit=1920%2C1080" group-title="El Salvador", Wow TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="El Salvador", Wow TV
+#EXTINF:-1, tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png?fit=1920%2C1080" group-title="El Salvador", Wow TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1493844077_b700000_slen.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="El Salvador", Sol TV
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/2329461812/jhkuqvwdhydt9t9e7dsl_400x400.jpeg" group-title="El Salvador", Sol TV
 https://rtmp.info/soltv/envivo/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="El Salvador", Sol TV
+#EXTINF:-1, tvg-logo="https://pbs.twimg.com/profile_images/2329461812/jhkuqvwdhydt9t9e7dsl_400x400.jpeg" group-title="El Salvador", Sol TV
 https://rtmp.info/soltv/envivo/chunks.m3u8?nimblesessionid=64243632
 
-#EXTINF:-1, tvg-logo="" group-title="El Salvador", Taber TV
+#EXTINF:-1, tvg-logo="https://2.bp.blogspot.com/-p4F59EIc5ts/XA3r2vE-6zI/AAAAAAAAAow/1lPlNgcXyKYIwOOCaYgY7cQRz5__GUO3gCLcBGAs/w1200-h630-p-k-no-nu/taber-tv.jpg" group-title="El Salvador", Taber TV
 https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/chunklist_w1505259703_b978000_DVR_sleng.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="El Salvador", Taber TV
+#EXTINF:-1, tvg-logo="https://2.bp.blogspot.com/-p4F59EIc5ts/XA3r2vE-6zI/AAAAAAAAAow/1lPlNgcXyKYIwOOCaYgY7cQRz5__GUO3gCLcBGAs/w1200-h630-p-k-no-nu/taber-tv.jpg" group-title="El Salvador", Taber TV
 https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/chunklist_w767475771_b978000_DVR_sleng.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="El Salvador", Elim TV
+#EXTINF:-1, tvg-logo="https://www.elim.org.sv/wp-content/uploads/2016/07/ELIM-TV-PROFILE-2.png" group-title="El Salvador", Elim TV
 https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/master.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="El Salvador", Elim TV
+#EXTINF:-1, tvg-logo="https://www.elim.org.sv/wp-content/uploads/2016/07/ELIM-TV-PROFILE-2.png" group-title="El Salvador", Elim TV
 https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/index_150_av-p.m3u8?sd=6&rebase=on
 
-#EXTINF:-1, tvg-logo="" group-title="El Salvador", Tele 1
+#EXTINF:-1, tvg-logo="https://www.tele1.sv/wp-content/uploads/2019/06/ipad-app-2-1024x732-689x492.png" group-title="El Salvador", Tele 1
 http://streamingcws40.com:1935/canaluno/videocanaluno/playlist.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="El Salvador", Canal 33
+#EXTINF:-1, tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-33-El-Salvador-en-vivo-Online.png?fit=1920%2C1080" group-title="El Salvador", Canal 33
 https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8?DVR
 
-#EXTINF:-1, tvg-logo="" group-title="El Salvador", Canal 33
+#EXTINF:-1, tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-33-El-Salvador-en-vivo-Online.png?fit=1920%2C1080" group-title="El Salvador", Canal 33
 https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/chunklist_w426834102_b148000_DVR_sleng.m3u8
 
-#EXTINF:-1, tvg-logo="" group-title="El Salvador", Canal 33
+#EXTINF:-1, tvg-logo="https://i1.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Canal-33-El-Salvador-en-vivo-Online.png?fit=1920%2C1080" group-title="El Salvador", Canal 33
 https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/chunklist_w388673075_b148000_DVR_sleng.m3u8
 
 
