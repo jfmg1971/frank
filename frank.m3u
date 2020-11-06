@@ -1,0 +1,322 @@
+#EXTM3U
+
+EL SALVADOR
+
+#EXTINF:-1, tvg-logo="" group-title="El Salvador", Canal 10
+https://5cf17f839d3ea.streamlock.net/tves/smil:tves.smil/playlist.m3u8?DVR
+
+#EXTINF:-1, tvg-logo="" group-title="El Salvador", Canal 10
+https://5cf17f839d3ea.streamlock.net/tves/smil:tves.smil/chunklist_w208054811_b978000_sleng.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="El Salvador", TRV
+https://panel.livetvvideo.net:1936/8182/8182/chunklist_w1170150541.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="El Salvador", TVO Televisión Oriental
+
+#EXTINF:-1, tvg-logo="" group-title="El Salvador", TVM Televisión Migueleña
+http://ispmanager.flynetwifi.com:1935/tvm/tvm.stream/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="El Salvador", Wow TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="El Salvador", Wow TV
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1493844077_b700000_slen.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="El Salvador", Sol TV
+https://rtmp.info/soltv/envivo/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="El Salvador", Sol TV
+https://rtmp.info/soltv/envivo/chunks.m3u8?nimblesessionid=64243632
+
+#EXTINF:-1, tvg-logo="" group-title="El Salvador", Taber TV
+https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/chunklist_w1505259703_b978000_DVR_sleng.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="El Salvador", Taber TV
+https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/chunklist_w767475771_b978000_DVR_sleng.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="El Salvador", Elim TV
+https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/master.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="El Salvador", Elim TV
+https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/index_150_av-p.m3u8?sd=6&rebase=on
+
+#EXTINF:-1, tvg-logo="" group-title="El Salvador", Tele 1
+http://streamingcws40.com:1935/canaluno/videocanaluno/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="El Salvador", Canal 33
+https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8?DVR
+
+#EXTINF:-1, tvg-logo="" group-title="El Salvador", Canal 33
+https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/chunklist_w426834102_b148000_DVR_sleng.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="El Salvador", Canal 33
+https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/chunklist_w388673075_b148000_DVR_sleng.m3u8
+
+
+
+
+
+HONDURAS
+
+#EXTINF:-1, tvg-logo="" group-title="Honduras",
+
+#EXTINF:-1, tvg-logo="" group-title="Honduras",
+
+#EXTINF:-1, tvg-logo="" group-title="Honduras",
+
+#EXTINF:-1, tvg-logo="" group-title="Honduras",
+
+#EXTINF:-1, tvg-logo="" group-title="Honduras",
+
+
+
+NICARAGUA
+
+#EXTINF:-1, tvg-logo="" group-title="Nicaragua",
+
+#EXTINF:-1, tvg-logo="" group-title="Nicaragua",
+
+#EXTINF:-1, tvg-logo="" group-title="Nicaragua",
+
+#EXTINF:-1, tvg-logo="" group-title="Nicaragua",
+
+#EXTINF:-1, tvg-logo="" group-title="Nicaragua",
+
+
+
+COSTA RICA
+
+#EXTINF:-1, tvg-logo="" group-title="Costa Rica", Telered
+http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Costa Rica", Telered
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1253847822.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Costa Rica", Telesur - Costa Rica
+https://59ef525c24caa.streamlock.net/telesur/telesur/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Costa Rica", Telesur - Costa Rica
+https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w269690273.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Costa Rica",
+
+#EXTINF:-1, tvg-logo="" group-title="Costa Rica",
+
+
+
+
+
+
+PANAMÁ
+
+#EXTINF:-1, tvg-logo="" group-title="Panamá", 
+
+
+#EXTINF:-1, tvg-logo="" group-title="Panamá", 
+
+
+#EXTINF:-1, tvg-logo="" group-title="Panamá", 
+
+
+#EXTINF:-1, tvg-logo="" group-title="Panamá", 
+
+
+#EXTINF:-1, tvg-logo="" group-title="Panamá", 
+
+
+
+
+ARGENTINA
+
+#EXTINF:-1, tvg-logo="" group-title="Argentina", Televisión Pública
+
+
+#EXTINF:-1, tvg-logo="" group-title="Argentina", Tec TV
+
+
+
+
+ESPAÑA
+
+#EXTINF:-1, tvg-logo="" group-title="España", TVE 1
+https://rtvelivestream.akamaized.net/la1_dvr.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="España", TVE 1
+https://rtvelivestream.akamaized.net/la1_dvr_1000.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="España", TVE 2
+https://rtvelivestream.akamaized.net/la2_dvr.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="España", TVE 2
+https://rtvelivestream.akamaized.net/la2_dvr_1000.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="España", TVE 24h
+https://rtvelivestream.akamaized.net/24h_dvr.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="España", TVE 24h
+https://rtvelivestream.akamaized.net/24h_dvr_1000.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="España", TVE tdp
+https://rtvelivestream.akamaized.net/tdp_dvr_1850.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="España", Telemadrid
+https://telemadridhls-live-hls.secure.footprint.net/telemadrid/telemadrid1/bitrate_1.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="España", Canal Extremadura
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?&test
+
+#EXTINF:-1, tvg-logo="" group-title="España", Canal Vasco eitb
+https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="España", Canal Vasco eitb
+https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-b.m3u8?sd=8&rebase=on
+
+#EXTINF:-1, tvg-logo="" group-title="España", Galicia TV Europa
+https://europa-crtvg.flumotion.com/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="España", Galicia TV Europa
+https://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="España", Lancelot
+https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="España", Lancelot
+https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/chunklist_w236834289.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="España", Lancelot 2
+https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/chunklist_w1553000842.m3u8
+
+https://todoapk.org/iptv/listas-m3u/
+
+
+
+
+
+DEPORTES
+
+#EXTINF:-1, tvg-logo="" group-title="Deportes", CDO - Chile
+https://tls.cdnz.cl/cdofree/smil:cdn.smil/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Deportes", CDO - Chile
+https://tls.cdnz.cl/cdofree/smil:cdn.smil/chunklist_w749399682_b500000_slesp.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Deportes", Real Madrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Deportes", Real Madrid TV
+https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, tvg-logo="" group-title="Deportes",
+
+
+
+
+
+MUSICA
+
+#EXTINF:-1, tvg-logo="" group-title="Música", Retro Plus
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Música", Retro Plus
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w982395693.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Música", Retro Plus
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1846100369.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Música", Retro TV Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Música", Retro TV Music
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1660515435.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Música",
+
+
+
+
+
+NOTICIAS
+
+#EXTINF:-1, tvg-logo="" group-title="Noticias", CGTN
+https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Noticias", CGTN
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Noticias", Hispan TV
+https://live1.presstv.com/live/hispan.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Noticias", Hispan TV
+https://live1.presstv.com/live/hispan_360p/index.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Noticias", RT en Español
+https://rt-esp-gd.secure2.footprint.net/1102.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Noticias", RT en Español
+https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Noticias", DW en Español
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Noticias", DW en Español
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, tvg-logo="" group-title="Noticias", DW en Español
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_3_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, tvg-logo="" group-title="Noticias", DW en Español
+https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1, tvg-logo="" group-title="Noticias", Telesur HD
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Noticias", Telesur HD
+https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/audio/chunklist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Noticias", Euronews en Español
+https://www.youtube.com/watch?v=L0qPssszfgY
+
+#EXTINF:-1, tvg-logo="" group-title="Noticias", Euronews in English
+https://www.youtube.com/watch?v=KRP1d3JiWPo
+
+#EXTINF:-1, tvg-logo="" group-title="Noticias", France 24 en Español
+https://www.youtube.com/watch?v=fKjynhhrfqU
+
+#EXTINF:-1, tvg-logo="" group-title="Noticias", France 24 in English
+https://www.youtube.com/watch?v=oaugY_Yn6Yw
+
+#EXTINF:-1, tvg-logo="" group-title="Noticias", France 24 en Francés
+https://www.youtube.com/watch?v=bkXn38__Gy0
+
+#EXTINF:-1, tvg-logo="" group-title="",
+
+#EXTINF:-1, tvg-logo="" group-title="",
+
+#EXTINF:-1, tvg-logo="" group-title="",
+
+#EXTINF:-1, tvg-logo="" group-title="",
+
+
+
+
+
+
+PELICULAS
+
+#EXTINF:-1, tvg-logo="" group-title="Películas", Retro Plus
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Películas", Retro Plus
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1547108001.m3u8
+
+#EXTINF:-1, tvg-logo="" group-title="Películas", Retro tv
+https://ott.streann.com/loadbalancer/services/web-players/channels-reseller-secure/5e4d4d902cdcd7335a2f9003/fc77bfec-c459-4fe6-88df-f47191c01588/93ekffp21uff16mpkm72125dr9/5d51a4b02cdc5040bfdf5d9d/playlist.m3u8?date=1604678365870&device-type=web&device-name=web&device-os=web&device-id=aFjJbbVzbMJMbMP5Oal9lH9nXO5MeZraXl5fFcRuxeunaYVJrc
+
+#EXTINF:-1, tvg-logo="" group-title="Películas", Retro tv
+https://streannlive-lh.akamaihd.net/i/retrotv_1@19771/master.m3u8?customtoken=a47ae298-3848-4994-9f28-4932b67d3e6d&hdnts=exp=1604678370~acl=*~hmac=2f4714eac0e35d229b0fba77162018361b8928182df5b95aef15ef9d5bdac83b&AkamaiAnalytics_debug=1&set-segment-duration=smoothest&resellerId=5d51a4b02cdc5040bfdf5d9d
+
+
+#EXTINF:-1, tvg-logo="" group-title="Películas", Retro tv
+https://streannlive-lh.akamaihd.net/i/retrotv_1@19771/index_1_av-b.m3u8?sd=10&set-segment-duration=smoothest&rebase=on&hdntl=exp=1604764767~acl=*~data=hdntl~hmac=a09f5cbac99aecc3db5655f69c302347eab5e43172dfccad4d78d59dc90ab545
+
+
