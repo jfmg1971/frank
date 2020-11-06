@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1, group-title="SV" ,Canal 10
+#EXTINF:-1, SV - Canal 10
 https://5cf17f839d3ea.streamlock.net/tves/smil:tves.smil/playlist.m3u8?DVR
 
 #EXTINF:-1, SV - Canal 10
@@ -57,139 +57,130 @@ https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/chunklist_w388673
 
 
 
-#EXTINF:-1, tvg-logo="" group-title="Honduras",
+#EXTINF:-1, HN,
 
-#EXTINF:-1, tvg-logo="" group-title="Honduras",
+#EXTINF:-1, HN,
 
-#EXTINF:-1, tvg-logo="" group-title="Honduras",
+#EXTINF:-1, HN,
 
-#EXTINF:-1, tvg-logo="" group-title="Honduras",
+#EXTINF:-1, HN,
 
-#EXTINF:-1, tvg-logo="" group-title="Honduras",
-
-
-
-
-
-
-#EXTINF:-1, tvg-logo="" group-title="Nicaragua",
-
-#EXTINF:-1, tvg-logo="" group-title="Nicaragua",
-
-#EXTINF:-1, tvg-logo="" group-title="Nicaragua",
-
-#EXTINF:-1, tvg-logo="" group-title="Nicaragua",
-
-#EXTINF:-1, tvg-logo="" group-title="Nicaragua",
+#EXTINF:-1, HN,
 
 
 
 
 
 
+#EXTINF:-1, NI,
 
-#EXTINF:-1, group-title="Costa Rica", Telered
+#EXTINF:-1, NI,
+
+#EXTINF:-1, NI,
+
+#EXTINF:-1, NI,
+
+#EXTINF:-1, NI,
+
+
+
+
+
+
+
+#EXTINF:-1, CR -Telered
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 
-#EXTINF:-1, group-title="Costa Rica", Telered
+#EXTINF:-1, CR - Telered
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1253847822.m3u8
 
-#EXTINF:-1, group-title="Costa Rica", Telesur - Costa Rica
+#EXTINF:-1, CR - Telesur
 https://59ef525c24caa.streamlock.net/telesur/telesur/playlist.m3u8
 
-#EXTINF:-1, group-title="Costa Rica", Telesur - Costa Rica
+#EXTINF:-1, CR - Telesur
 https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w269690273.m3u8
 
-#EXTINF:-1, group-title="Costa Rica",
+#EXTINF:-1, CR - 
 
-#EXTINF:-1, group-title="Costa Rica",
-
-
+#EXTINF:-1, CR - 
 
 
 
 
 
 
-#EXTINF:-1, group-title="Panamá", 
 
 
-#EXTINF:-1, group-title="Panamá", 
+#EXTINF:-1, PA - 
 
 
-#EXTINF:-1, group-title="Panamá", 
+#EXTINF:-1, PA -  
 
 
-#EXTINF:-1, group-title="Panamá", 
+#EXTINF:-1, PA -  
 
 
-#EXTINF:-1, group-title="Panamá", 
+#EXTINF:-1, PA -  
 
 
-
-
-
-
-#EXTINF:-1, group-title="Argentina", Televisión Pública
-
-
-#EXTINF:-1, group-title="Argentina", Tec TV
+#EXTINF:-1, PA -  
 
 
 
 
 
 
-#EXTINF:-1, group-title="España", TVE 1
+
+
+#EXTINF:-1, ES - TVE 1
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 
-#EXTINF:-1, group-title="España", TVE 1
+#EXTINF:-1, ES - TVE 1
 https://rtvelivestream.akamaized.net/la1_dvr_1000.m3u8
 
-#EXTINF:-1, group-title="España", TVE 2
+#EXTINF:-1, ES - TVE 2
 https://rtvelivestream.akamaized.net/la2_dvr.m3u8
 
-#EXTINF:-1, group-title="España", TVE 2
+#EXTINF:-1, ES - TVE 2
 https://rtvelivestream.akamaized.net/la2_dvr_1000.m3u8
 
-#EXTINF:-1, group-title="España", TVE 24h
+#EXTINF:-1, ES - TVE 24h
 https://rtvelivestream.akamaized.net/24h_dvr.m3u8
 
-#EXTINF:-1, group-title="España", TVE 24h
+#EXTINF:-1, ES - TVE 24h
 https://rtvelivestream.akamaized.net/24h_dvr_1000.m3u8
 
-#EXTINF:-1, group-title="España", TVE tdp
+#EXTINF:-1, ES - TVE tdp
 https://rtvelivestream.akamaized.net/tdp_dvr_1850.m3u8
 
-#EXTINF:-1, group-title="España", Telemadrid
+#EXTINF:-1, ES - Telemadrid
 https://telemadridhls-live-hls.secure.footprint.net/telemadrid/telemadrid1/bitrate_1.m3u8
 
-#EXTINF:-1, group-title="España", Canal Extremadura
+#EXTINF:-1, ES - Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?&test
 
-#EXTINF:-1, group-title="España", Canal Vasco eitb
+#EXTINF:-1, ES - Canal Vasco eitb
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
 
-#EXTINF:-1, group-title="España", Canal Vasco eitb
+#EXTINF:-1, ES - Canal Vasco eitb
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0564_av-b.m3u8?sd=8&rebase=on
 
-#EXTINF:-1, group-title="España", Galicia TV Europa
+#EXTINF:-1, ES - Galicia TV Europa
 https://europa-crtvg.flumotion.com/playlist.m3u8
 
-#EXTINF:-1, group-title="España", Galicia TV Europa
+#EXTINF:-1, ES - Galicia TV Europa
 https://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8
 
-#EXTINF:-1, group-title="España", Lancelot
+#EXTINF:-1, ES - Lancelot
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/playlist.m3u8
 
-#EXTINF:-1, group-title="España", Lancelot
+#EXTINF:-1, ES - Lancelot
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/chunklist_w236834289.m3u8
 
-#EXTINF:-1, group-title="España", Lancelot 2
+#EXTINF:-1, ES - Lancelot 2
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/chunklist_w1553000842.m3u8
 
 
-https://todoapk.org/iptv/listas-m3u/
 
 
 
@@ -197,19 +188,18 @@ https://todoapk.org/iptv/listas-m3u/
 
 
 
-#EXTINF:-1, group-title="Deportes", CDO - Chile
+#EXTINF:-1, SPORT - CDO - Chile
 https://tls.cdnz.cl/cdofree/smil:cdn.smil/playlist.m3u8
 
-#EXTINF:-1, group-title="Deportes", CDO - Chile
+#EXTINF:-1, SPORT - CDO - Chile
 https://tls.cdnz.cl/cdofree/smil:cdn.smil/chunklist_w749399682_b500000_slesp.m3u8
 
-#EXTINF:-1, group-title="Deportes", Real Madrid TV
+#EXTINF:-1, SPORT - Real Madrid TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
 
-#EXTINF:-1, group-title="Deportes", Real Madrid TV
+#EXTINF:-1, SPORT - Real Madrid TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, group-title="Deportes",
 
 
 
@@ -217,22 +207,22 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 
 
 
-#EXTINF:-1, group-title="Música", Retro Plus
+
+#EXTINF:-1, MUSIC - Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
 
-#EXTINF:-1, group-title="Música", Retro Plus
+#EXTINF:-1, MUSIC - Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w982395693.m3u8
 
-#EXTINF:-1, group-title="Música", Retro Plus
+#EXTINF:-1, MUSIC - Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w1846100369.m3u8
 
-#EXTINF:-1, group-title="Música", Retro TV Music
+#EXTINF:-1, MUSIC - Retro TV Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 
-#EXTINF:-1, group-title="Música", Retro TV Music
+#EXTINF:-1, MUSIC - Retro TV Music
 http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1660515435.m3u8
 
-#EXTINF:-1, group-title="Música",
 
 
 
@@ -240,64 +230,58 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1660515435.m3u8
 
 
 
-#EXTINF:-1, group-title="Noticias", CGTN
+
+#EXTINF:-1, NEWS - CGTN - China
 https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 
-#EXTINF:-1, group-title="Noticias", CGTN
+#EXTINF:-1, NEWS - CGTN - China
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1, group-title="Noticias", Hispan TV
+#EXTINF:-1, NEWS - Hispan TV - Irán
 https://live1.presstv.com/live/hispan.m3u8
 
-#EXTINF:-1, group-title="Noticias", Hispan TV
+#EXTINF:-1, NEWS - Hispan TV - Irán
 https://live1.presstv.com/live/hispan_360p/index.m3u8
 
-#EXTINF:-1, group-title="Noticias", RT en Español
+#EXTINF:-1, NEWS - RT en Español - Russia
 https://rt-esp-gd.secure2.footprint.net/1102.m3u8
 
-#EXTINF:-1, group-title="Noticias", RT en Español
+#EXTINF:-1, NEWS - RT en Español - Russia
 https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 
-#EXTINF:-1, group-title="Noticias", DW en Español
+#EXTINF:-1, NEWS - DW en Español - Alemania
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
 
-#EXTINF:-1, group-title="Noticias", DW en Español
+#EXTINF:-1, NEWS - DW en Español - Alemania
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, group-title="Noticias", DW en Español
+#EXTINF:-1, NEWS - DW en Español
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_3_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, group-title="Noticias", DW en Español
+#EXTINF:-1, NEWS - DW en Español - Alemania
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, group-title="Noticias", Telesur HD
+#EXTINF:-1, NEWS - Telesur HD - Venezuela
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
-#EXTINF:-1, group-title="Noticias", Telesur HD
+#EXTINF:-1, NEWS - Telesur HD - Venezuela
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/audio/chunklist.m3u8
 
-#EXTINF:-1, group-title="Noticias", Euronews en Español
+#EXTINF:-1, NEWS - Euronews en Español
 https://www.youtube.com/watch?v=L0qPssszfgY
 
-#EXTINF:-1, group-title="Noticias", Euronews in English
+#EXTINF:-1, NEWS - Euronews in English
 https://www.youtube.com/watch?v=KRP1d3JiWPo
 
-#EXTINF:-1, group-title="Noticias", France 24 en Español
+#EXTINF:-1, NEWS - France 24 en Español
 https://www.youtube.com/watch?v=fKjynhhrfqU
 
-#EXTINF:-1, group-title="Noticias", France 24 in English
+#EXTINF:-1, NEWS - France 24 in English
 https://www.youtube.com/watch?v=oaugY_Yn6Yw
 
-#EXTINF:-1, group-title="Noticias", France 24 en Francés
+#EXTINF:-1, NEWS - France 24 en Francés
 https://www.youtube.com/watch?v=bkXn38__Gy0
 
-#EXTINF:-1, group-title="",
-
-#EXTINF:-1, group-title="",
-
-#EXTINF:-1, group-title="",
-
-#EXTINF:-1, group-title="",
 
 
 
@@ -306,19 +290,19 @@ https://www.youtube.com/watch?v=bkXn38__Gy0
 
 
 
-#EXTINF:-1, group-title="Películas", Retro Plus
+#EXTINF:-1, MOVIE - Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
-#EXTINF:-1, group-title="Películas", Retro Plus
+#EXTINF:-1, MOVIE - Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1547108001.m3u8
 
-#EXTINF:-1, group-title="Películas", Retro tv
+#EXTINF:-1, MOVIE - Retro tv
 https://ott.streann.com/loadbalancer/services/web-players/channels-reseller-secure/5e4d4d902cdcd7335a2f9003/fc77bfec-c459-4fe6-88df-f47191c01588/93ekffp21uff16mpkm72125dr9/5d51a4b02cdc5040bfdf5d9d/playlist.m3u8?date=1604678365870&device-type=web&device-name=web&device-os=web&device-id=aFjJbbVzbMJMbMP5Oal9lH9nXO5MeZraXl5fFcRuxeunaYVJrc
 
-#EXTINF:-1, group-title="Películas", Retro tv
+#EXTINF:-1, MOVIE - Retro tv
 https://streannlive-lh.akamaihd.net/i/retrotv_1@19771/master.m3u8?customtoken=a47ae298-3848-4994-9f28-4932b67d3e6d&hdnts=exp=1604678370~acl=*~hmac=2f4714eac0e35d229b0fba77162018361b8928182df5b95aef15ef9d5bdac83b&AkamaiAnalytics_debug=1&set-segment-duration=smoothest&resellerId=5d51a4b02cdc5040bfdf5d9d
 
-#EXTINF:-1, group-title="Películas", Retro tv
+#EXTINF:-1, MOVIE - Retro tv
 https://streannlive-lh.akamaihd.net/i/retrotv_1@19771/index_1_av-b.m3u8?sd=10&set-segment-duration=smoothest&rebase=on&hdntl=exp=1604764767~acl=*~data=hdntl~hmac=a09f5cbac99aecc3db5655f69c302347eab5e43172dfccad4d78d59dc90ab545
 
 
