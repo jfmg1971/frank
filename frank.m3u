@@ -1,54 +1,54 @@
 #EXTM3U
 
-#EXTINF:-1, group-title="El Salvador", Canal 10
+#EXTINF:-1, SV - Canal 10
 https://5cf17f839d3ea.streamlock.net/tves/smil:tves.smil/playlist.m3u8?DVR
 
-#EXTINF:-1, group-title="El Salvador", Canal 10
+#EXTINF:-1, SV - Canal 10
 https://5cf17f839d3ea.streamlock.net/tves/smil:tves.smil/chunklist_w208054811_b978000_sleng.m3u8
 
-#EXTINF:-1, group-title="El Salvador", TRV
+#EXTINF:-1, SV - TRV
 https://panel.livetvvideo.net:1936/8182/8182/chunklist_w1170150541.m3u8
 
-#EXTINF:-1, group-title="El Salvador", TVO Televisión Oriental
+#EXTINF:-1, SV - TVO Televisión Oriental
 https://tvocanal23.com.sv
 
-#EXTINF:-1, group-title="El Salvador", TVM Televisión Migueleña
+#EXTINF:-1, SV - TVM Televisión Migueleña
 http://ispmanager.flynetwifi.com:1935/tvm/tvm.stream/playlist.m3u8
 
-#EXTINF:-1, group-title="El Salvador", Wow TV
+#EXTINF:-1, SV - Wow TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-#EXTINF:-1, group-title="El Salvador", Wow TV
+#EXTINF:-1, SV - Wow TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1493844077_b700000_slen.m3u8
 
-#EXTINF:-1, group-title="El Salvador", Sol TV
+#EXTINF:-1, SV - Sol TV
 https://rtmp.info/soltv/envivo/playlist.m3u8
 
-#EXTINF:-1, group-title="El Salvador", Sol TV
+#EXTINF:-1, SV - Sol TV
 https://rtmp.info/soltv/envivo/chunks.m3u8?nimblesessionid=64243632
 
-#EXTINF:-1, group-title="El Salvador", Taber TV
+#EXTINF:-1, SV - Taber TV
 https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/chunklist_w1505259703_b978000_DVR_sleng.m3u8
 
-#EXTINF:-1, group-title="El Salvador", Taber TV
+#EXTINF:-1, SV - Taber TV
 https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/chunklist_w767475771_b978000_DVR_sleng.m3u8
 
-#EXTINF:-1, group-title="El Salvador", Elim TV
+#EXTINF:-1, SV - Elim TV
 https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/master.m3u8
 
-#EXTINF:-1, group-title="El Salvador", Elim TV
+#EXTINF:-1, SV - Elim TV
 https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/index_150_av-p.m3u8?sd=6&rebase=on
 
-#EXTINF:-1, group-title="El Salvador", Tele 1
+#EXTINF:-1, SV - Tele 1
 http://streamingcws40.com:1935/canaluno/videocanaluno/playlist.m3u8
 
-#EXTINF:-1, group-title="El Salvador", Canal 33
+#EXTINF:-1, SV - Canal 33
 https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8?DVR
 
-#EXTINF:-1, group-title="El Salvador", Canal 33
+#EXTINF:-1, SV - Canal 33
 https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/chunklist_w426834102_b148000_DVR_sleng.m3u8
 
-#EXTINF:-1, group-title="El Salvador", Canal 33
+#EXTINF:-1, SV - Canal 33
 https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/chunklist_w388673075_b148000_DVR_sleng.m3u8
 
 
