@@ -545,15 +545,6 @@ http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
 http://31.13.223.104:1935/travel/travel.stream/chunklist_w168514330.m3u8
 
 #EXTINF:-1, TRAVEL MX, México Travel Channel
-https://dmxleo.dailymotion.com/cdn/manifest/video/xe2kwt.m3u8?auth=1610152965-2562-zrq84qo6-d9eb5e6a4eb11d7c1a3e357c6d02edd8Ezrq84qo6&bs=1&cookie_sync_ab_gk=1&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---
-
-#EXTINF:-1, TRAVEL MX, México Travel Channel
-https://public-prod-dspcookiematching.dmxleo.com/dmx?target=https%3A%2F%2Fdmxleo.dailymotion.com/cdn/manifest/video/xe2kwt.m3u8%3Fauth%3Dx%26cs%3Ddmx_[CSDATA]
-
-#EXTINF:-1, TRAVEL MX, México Travel Channel
-https://dmxleo.dailymotion.com/cdn/manifest/video/xe2kwt.m3u8?auth=x&cs=dmx_Igx22g0Lf5vl6G0oTcV5UD14z9M9sNEYxTAXpTTwryu4B5MVVGKPZvh3A7cv0TpDiIY8ilYUFBpwF1cv_8hlmbegxDUjgsVFN15g8KG9fu8
-
-#EXTINF:-1, TRAVEL MX, México Travel Channel
 https://www.dailymotion.com/cdn/live/video/x7xyu4v.m3u8?sec=IhDonKj8HIg_qe87phuJsiI4o1NMCyFWNGV1Ws6VWcOh8_0SQfxkbxPUOrmT_gmJdGszq44-ffvVYVV4UAQPRA
 
 #EXTINF:-1, TRAVEL MX, México Travel Channel
@@ -565,6 +556,17 @@ https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmic1sYx-2af4GP8vn5
 #EXTINF:-1, TRAVEL MX, México Travel Channel
 https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmic1sYx-2af4GP8vn5v3_ww)/dm/3/x7xyu4v/s/live-2.m3u8
 
+
+
+
+#EXTINF:-1, TRAVEL MX, México Travel Channel
+https://dmxleo.dailymotion.com/cdn/manifest/video/xe2kwt.m3u8?auth=1610152965-2562-zrq84qo6-d9eb5e6a4eb11d7c1a3e357c6d02edd8Ezrq84qo6&bs=1&cookie_sync_ab_gk=1&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---
+
+#EXTINF:-1, TRAVEL MX, México Travel Channel
+https://public-prod-dspcookiematching.dmxleo.com/dmx?target=https%3A%2F%2Fdmxleo.dailymotion.com/cdn/manifest/video/xe2kwt.m3u8%3Fauth%3Dx%26cs%3Ddmx_[CSDATA]
+
+#EXTINF:-1, TRAVEL MX, México Travel Channel
+https://dmxleo.dailymotion.com/cdn/manifest/video/xe2kwt.m3u8?auth=x&cs=dmx_Igx22g0Lf5vl6G0oTcV5UD14z9M9sNEYxTAXpTTwryu4B5MVVGKPZvh3A7cv0TpDiIY8ilYUFBpwF1cv_8hlmbegxDUjgsVFN15g8KG9fu8
 
 
 
