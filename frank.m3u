@@ -197,6 +197,15 @@ https://metrics.brightcove.com/v2/tracker?domain=videocloud&platform=video-js&se
 #EXTINF:-1, MX - Milenio
 https://sb.scorecardresearch.com/p?c1=2&c2=6906371&ns_ap_pn=js&ns_ap_pfm=html&ns_type=hidden&ns_st_sv=6.1.0.170130&ns_st_pv=1.5.1.190515&ns_st_smv=5.8&ns_st_it=c&ns_st_id=1609972664845&ns_st_ec=1&ns_st_sp=1&ns_st_sc=1&ns_st_psq=1&ns_st_asq=1&ns_st_sq=1&ns_st_ppc=1&ns_st_apc=1&ns_st_spc=1&ns_st_cn=1&ns_st_ev=play&ns_st_po=0&ns_st_cl=2479102&ns_st_el=2479102&ns_st_pb=1&ns_st_mp=brightcove&ns_st_mv=6.22.7&ns_st_pn=1&ns_st_tp=0&ns_st_ci=6220572674001&ns_st_pt=0&ns_st_dpt=0&ns_st_ipt=0&ns_st_et=0&ns_st_det=0&ns_st_upc=0&ns_st_dupc=0&ns_st_iupc=0&ns_st_upa=0&ns_st_dupa=0&ns_st_iupa=0&ns_st_lpc=0&ns_st_dlpc=0&ns_st_lpa=0&ns_st_dlpa=0&ns_st_pa=0&ns_ts=1609972675391&ns_st_bc=0&ns_st_dbc=0&ns_st_bt=0&ns_st_dbt=0&ns_st_bp=0&ns_st_lt=10546&ns_st_skc=0&ns_st_dskc=0&ns_st_ska=0&ns_st_dska=0&ns_st_skd=0&ns_st_skt=0&ns_st_dskt=0&ns_st_pc=0&ns_st_dpc=0&ns_st_pp=0&ns_st_br=0&ns_st_rt=100&ns_st_ub=0&ns_st_vo=100&ns_st_ws=norm&ns_st_ki=1200000&ns_st_pl=Milenio%20Noticias%2C%20con%20H%C3%A9ctor%20Zamarr%C3%B3n%2C%2005%20de%20enero%20de%202021&ns_st_pr=Milenio%20Noticias%2C%20con%20H%C3%A9ctor%20Zamarr%C3%B3n%2C%2005%20de%20enero%20de%202021&ns_st_sn=*null&ns_st_en=*null&ns_st_ep=Milenio%20Noticias%2C%20con%20H%C3%A9ctor%20Zamarr%C3%B3n%2C%2005%20de%20enero%20de%202021&ns_st_ty=video&ns_st_ct=vc00&ns_st_cs=100x100&ns_st_st=*null&ns_st_pu=*null&ns_st_cu=https%3A%2F%2Fmanifest.prod.boltdns.net%2Fmanifest%2Fv1%2Fhls%2Fv4%2Fclear%2F57828478001%2Fe2d6f7f4-7322-46c0-aa48-ec6ab78bea3b%2F10s%2Fmaster.m3u8%3Ffastly_token%3DNjAxYjJhMDhfMzVlZmIwNDA3ZTM2ZWYxZDk1OWMzYjUzODJjZGI3YjJhMzE2OTI1YjNkNjcxZTk1YTU2ZDFiNmVkZTI5ZTgxOQ%253D%253D&c3=MILENIOTV&c4=*null&c6=*null&c7=https%3A%2F%2Fwww.milenio.com%2Fmileniotv%2Fprogramas&c8=Programas%20en%20Milenio%20Televisi%C3%B3n%3A%20noticias%20en%20vivo%20las%2024%20horas%20-%20Grupo%20Milenio&c9=https%3A%2F%2Fwww.google.com.sv%2F
 
+#EXTINF:-1, MX - Canal 11, México
+https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/playlist.m3u8
+
+#EXTINF:-1, MX - Canal 11, México
+https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/chunklist_w702039277_b1300000_slesp.m3u8
+
+#EXTINF:-1, MX - Canal 11, México
+https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/chunklist_w702039277_b1000000_slesp.m3u8
+
 
 
 
