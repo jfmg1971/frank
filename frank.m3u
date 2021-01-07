@@ -4,7 +4,7 @@
 https://radiocret.net:8082/hls/tvcret.m3u8
 
 #EXTINF:-1, SV - TCS HD
-https://tvserver.ml:1443/tvca/live/chunklist_w1224922417.m3u8?_=10
+https://secure-video.tcsgo.com/tcshd/index720p30360p30_20200822T210827.m3u8?_=14
 
 #EXTINF:-1, SV - TCS HD
 https://secure-video.tcsgo.com/tcshd/index720p30360p30_20200822T210827.m3u8?_=14
@@ -227,6 +227,23 @@ https://cdn.teveo.cu/live/video/A36pWmuWvZBQskuZ/ngrp:gppfydfzpSUn9Udy.stream/ch
 
 
 
+#EXTINF:-1, RD -Orbit TV
+https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+
+#EXTINF:-1, RD -Orbit TV
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1596577600.m3u8
+
+#EXTINF:-1, RD - Telesistema, Canal 11
+https://ss5.domint.net:3016/tv11_str/canal11/playlist.m3u8
+
+#EXTINF:-1, RD - Telesistema, Canal 11
+https://ss5.domint.net:3016/tv11_str/canal11/chunklist_w2102670102.m3u8
+
+
+
+
+
+
 
 #EXTINF:-1, ES - TVE 1
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
@@ -295,6 +312,17 @@ https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/index.m3u8?_=1
 
 #EXTINF:-1, BO - Pat HD
 https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/chunklist_w575448991.m3u8?_=14
+
+
+
+
+
+
+#EXTINF:-1, CL - Campus TVHD, Universidad de Talca
+http://unlimited1-us.dps.live/campustv/campustv.smil/playlist.m3u8
+
+#EXTINF:-1, CL - Campus TVHD, Universidad de Talca
+http://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream2/chunks.m3u8?nimblesessionid=6419281
 
 
 
@@ -430,6 +458,12 @@ https://news.cgtn.com/resource/live/espanol/cgtn-e.m3u8
 #EXTINF:-1, NEWS - CGTN - China
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
+#EXTINF:-1, NEWS - NHK, Japón
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+
+#EXTINF:-1, NEWS - NHK, Japón
+https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
+
 #EXTINF:-1, NEWS - Hispan TV - Irán
 https://live1.presstv.com/live/hispan.m3u8
 
@@ -497,5 +531,18 @@ https://streannlive-lh.akamaihd.net/i/retrotv_1@19771/master.m3u8?customtoken=a4
 
 #EXTINF:-1, MOVIE - Retro tv
 https://streannlive-lh.akamaihd.net/i/retrotv_1@19771/index_1_av-b.m3u8?sd=10&set-segment-duration=smoothest&rebase=on&hdntl=exp=1604764767~acl=*~data=hdntl~hmac=a09f5cbac99aecc3db5655f69c302347eab5e43172dfccad4d78d59dc90ab545
+
+
+
+
+
+
+
+#EXTINF:-1, TRAVEL BU, Travel TV
+http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
+
+#EXTINF:-1, TRAVEL BU, Travel TV
+http://31.13.223.104:1935/travel/travel.stream/chunklist_w168514330.m3u8
+
 
 
