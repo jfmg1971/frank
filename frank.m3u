@@ -73,49 +73,52 @@ https://tvserver.ml:1443/tvca/live/chunklist_w1224922417.m3u8?_=10
 
 
 
-#EXTINF:-1, HN, TDTV
+#EXTINF:-1, HN - TDTV
 https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjEgOTo1OToxNyBQTSZoYXNoX3ZhbHVlPUE5VGdCUEQxYlNYSFBhVjBHN25icFE9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZpZD0=
 
-#EXTINF:-1, HN, TDTV
+#EXTINF:-1, HN - TDTV
 https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/chunklist_w601931867_b478000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjEgOTo1OToxNyBQTSZoYXNoX3ZhbHVlPUE5VGdCUEQxYlNYSFBhVjBHN25icFE9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZpZD0%3D
 
-#EXTINF:-1, HN, UTV
+#EXTINF:-1, HN, TEN TV
+http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/chunklist_w346930306_b698000.m3u8
+
+#EXTINF:-1, HN - UTV
 https://live-utv.unah.edu.hn/web/salida.m3u8
 
-#EXTINF:-1, HN, Metro TV
+#EXTINF:-1, HN - Metro TV
 https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8?_=6
 
-#EXTINF:-1, HN, Maya TV
+#EXTINF:-1, HN - Maya TV
 https://5d00db0e0fcd5.streamlock.net/7334/7334/chunklist.m3u8?_=10
 
-#EXTINF:-1, HN, Waldivisión
+#EXTINF:-1, HN - Waldivisión
 https://cloud3.streaminglivehd.com:1936/8020/8020/chunklist.m3u8?_=12
 
-#EXTINF:-1, HN, STVE - Telebásica 2
+#EXTINF:-1, HN - STVE - Telebásica 2
 https://www.dailymotion.com/cdn/live/video/x7tb2zu.m3u8?sec=vIJ0LhokuFoimVRruGMATjSg9gI7hHvTTbhXj52Pl_aJ4YLBD95TfNVZxaFHx_1A9f-CS-Ic0XlZm3XTSXGUvw
 
-#EXTINF:-1, HN, STVE - Telebásica 2
+#EXTINF:-1, HN - STVE - Telebásica 2
 https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZbjMhzvBbFiyp7xBZ_0-X6U)/dm/3/x7tb2zu/s/live-0.m3u8
 
-#EXTINF:-1, HN, STVE - Telebásica 2
+#EXTINF:-1, HN - STVE - Telebásica 2
 https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZbjMhzvBbFiyp7xBZ_0-X6U)/dm/3/x7tb2zu/s/live-2.m3u8
 
-#EXTINF:-1, HN, STVE - Telebásica 1
+#EXTINF:-1, HN - STVE - Telebásica 1
 https://www.dailymotion.com/cdn/live/video/x7so2sc.m3u8?sec=9LQC36Pu90KsolrgH4tVHArGc2JuQ2epG2FnJnWEUyl5s9n1dKgYUIGs6T3dqgqzzB4ho2VeZmrsKbn5Bt7fhQ
 
-#EXTINF:-1, HN, STVE - Telebásica 1
+#EXTINF:-1, HN - STVE - Telebásica 1
 https://stream-01.nyc.dailymotion.com/sec(XpCeeMNY3Z5K08ImOEpf68tfnoEG16HF-pmgZg7YrvY)/dm/3/x7so2sc/s/live-0.m3u8
 
-#EXTINF:-1, HN, STVE - Telebásica 1
+#EXTINF:-1, HN - STVE - Telebásica 1
 https://stream-01.nyc.dailymotion.com/sec(XpCeeMNY3Z5K08ImOEpf68tfnoEG16HF-pmgZg7YrvY)/dm/3/x7so2sc/s/live-1.m3u8
 
-#EXTINF:-1, HN, STVE - Telebásica 1
+#EXTINF:-1, HN - STVE - Telebásica 1
 https://stream-01.nyc.dailymotion.com/sec(XpCeeMNY3Z5K08ImOEpf68tfnoEG16HF-pmgZg7YrvY)/dm/3/x7so2sc/s/live-2.m3u8
 
-#EXTINF:-1, HN, Alsacias
+#EXTINF:-1, HN - Alsacias
 https://emisoras.hn:8081/atv/tracks-v1a1/mono.m3u8?_=14
 
-#EXTINF:-1, HN, Hondured
+#EXTINF:-1, HN - Hondured
 https://5d597bfcee285.streamlock.net/hondured/hondured/chunklist_w264935168.m3u8?_=16
 
 
