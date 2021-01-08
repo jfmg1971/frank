@@ -12,58 +12,58 @@ https://secure-video.tcsgo.com/tcshd/index720p30360p30_20200822T210827.m3u8?_=14
 #EXTINF:-1, SV, Canal 8 - Agape TV
 https://can1.krakeniptv.com:25463/live/agape/CPLdE2EadX/1764.m3u8?_=6
 
-#EXTINF:-1, SV - Canal 10
+#EXTINF:-1, SV, Canal 10
 https://5ca39be538307.streamlock.net/tves/smil:tves.smil/playlist.m3u8?DVR
 
-#EXTINF:-1, SV - Canal 10
+#EXTINF:-1, SV, Canal 10
 https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w147787476_b978000_sleng.m3u8
 
-#EXTINF:-1, SV - TRV
+#EXTINF:-1, SV, TRV
 https://panel.livetvvideo.net:1936/8182/8182/chunklist_w1170150541.m3u8
 
-#EXTINF:-1, SV - TVO Televisión Oriental
+#EXTINF:-1, SV, TVO Televisión Oriental
 https://tvocanal23.com.sv
 
-#EXTINF:-1, SV - TVM Televisión Migueleña
+#EXTINF:-1, SV, TVM Televisión Migueleña
 http://ispmanager.flynetwifi.com:1935/tvm/tvm.stream/playlist.m3u8
 
-#EXTINF:-1, SV - Wow TV
+#EXTINF:-1, SV, Wow TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
-#EXTINF:-1, SV - Wow TV
+#EXTINF:-1, SV, Wow TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1493844077_b700000_slen.m3u8
 
-#EXTINF:-1, SV - Sol TV
+#EXTINF:-1, SV, Sol TV
 https://rtmp.info/soltv/envivo/playlist.m3u8
 
-#EXTINF:-1, SV - Sol TV
+#EXTINF:-1, SV, Sol TV
 https://rtmp.info/soltv/envivo/chunks.m3u8?nimblesessionid=64243632
 
-#EXTINF:-1, SV - Taber TV
+#EXTINF:-1, SV, Taber TV
 https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/chunklist_w1505259703_b978000_DVR_sleng.m3u8
 
-#EXTINF:-1, SV - Taber TV
+#EXTINF:-1, SV, Taber TV
 https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/chunklist_w767475771_b978000_DVR_sleng.m3u8
 
-#EXTINF:-1, SV - Elim TV
+#EXTINF:-1, SV, Elim TV
 https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/master.m3u8
 
-#EXTINF:-1, SV - Elim TV
+#EXTINF:-1, SV, Elim TV
 https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/index_150_av-p.m3u8?sd=6&rebase=on
 
-#EXTINF:-1, SV - Tele 1
+#EXTINF:-1, SV, Tele 1
 http://streamingcws40.com:1935/canaluno/videocanaluno/playlist.m3u8
 
-#EXTINF:-1, SV - Canal 33
+#EXTINF:-1, SV, Canal 33
 https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8?DVR
 
-#EXTINF:-1, SV - Canal 33
+#EXTINF:-1, SV, Canal 33
 https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/chunklist_w426834102_b148000_DVR_sleng.m3u8
 
-#EXTINF:-1, SV - Canal 33
+#EXTINF:-1, SV, Canal 33
 https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/chunklist_w388673075_b148000_DVR_sleng.m3u8
 
-#EXTINF:-1, SV - TVCa
+#EXTINF:-1, SV, TVCa
 https://tvserver.ml:1443/tvca/live/chunklist_w1224922417.m3u8?_=10
 
 
@@ -73,52 +73,52 @@ https://tvserver.ml:1443/tvca/live/chunklist_w1224922417.m3u8?_=10
 
 
 
-#EXTINF:-1, HN - TDTV
+#EXTINF:-1, HN, TDTV
 https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjEgOTo1OToxNyBQTSZoYXNoX3ZhbHVlPUE5VGdCUEQxYlNYSFBhVjBHN25icFE9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZpZD0=
 
-#EXTINF:-1, HN - TDTV
+#EXTINF:-1, HN, TDTV
 https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/chunklist_w601931867_b478000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjEgOTo1OToxNyBQTSZoYXNoX3ZhbHVlPUE5VGdCUEQxYlNYSFBhVjBHN25icFE9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZpZD0%3D
 
 #EXTINF:-1, HN, TEN TV
 http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/chunklist_w346930306_b698000.m3u8
 
-#EXTINF:-1, HN - UTV
+#EXTINF:-1, HN, UTV
 https://live-utv.unah.edu.hn/web/salida.m3u8
 
-#EXTINF:-1, HN - Metro TV
+#EXTINF:-1, HN, Metro TV
 https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8?_=6
 
-#EXTINF:-1, HN - Maya TV
+#EXTINF:-1, HN, Maya TV
 https://5d00db0e0fcd5.streamlock.net/7334/7334/chunklist.m3u8?_=10
 
-#EXTINF:-1, HN - Waldivisión
+#EXTINF:-1, HN, Waldivisión
 https://cloud3.streaminglivehd.com:1936/8020/8020/chunklist.m3u8?_=12
 
-#EXTINF:-1, HN - STVE - Telebásica 2
+#EXTINF:-1, HN, STVE - Telebásica 2
 https://www.dailymotion.com/cdn/live/video/x7tb2zu.m3u8?sec=vIJ0LhokuFoimVRruGMATjSg9gI7hHvTTbhXj52Pl_aJ4YLBD95TfNVZxaFHx_1A9f-CS-Ic0XlZm3XTSXGUvw
 
-#EXTINF:-1, HN - STVE - Telebásica 2
+#EXTINF:-1, HN, STVE - Telebásica 2
 https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZbjMhzvBbFiyp7xBZ_0-X6U)/dm/3/x7tb2zu/s/live-0.m3u8
 
-#EXTINF:-1, HN - STVE - Telebásica 2
+#EXTINF:-1, HN, STVE - Telebásica 2
 https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZbjMhzvBbFiyp7xBZ_0-X6U)/dm/3/x7tb2zu/s/live-2.m3u8
 
-#EXTINF:-1, HN - STVE - Telebásica 1
+#EXTINF:-1, HN, STVE - Telebásica 1
 https://www.dailymotion.com/cdn/live/video/x7so2sc.m3u8?sec=9LQC36Pu90KsolrgH4tVHArGc2JuQ2epG2FnJnWEUyl5s9n1dKgYUIGs6T3dqgqzzB4ho2VeZmrsKbn5Bt7fhQ
 
-#EXTINF:-1, HN - STVE - Telebásica 1
+#EXTINF:-1, HN, STVE - Telebásica 1
 https://stream-01.nyc.dailymotion.com/sec(XpCeeMNY3Z5K08ImOEpf68tfnoEG16HF-pmgZg7YrvY)/dm/3/x7so2sc/s/live-0.m3u8
 
-#EXTINF:-1, HN - STVE - Telebásica 1
+#EXTINF:-1, HN, STVE - Telebásica 1
 https://stream-01.nyc.dailymotion.com/sec(XpCeeMNY3Z5K08ImOEpf68tfnoEG16HF-pmgZg7YrvY)/dm/3/x7so2sc/s/live-1.m3u8
 
-#EXTINF:-1, HN - STVE - Telebásica 1
+#EXTINF:-1, HN, STVE - Telebásica 1
 https://stream-01.nyc.dailymotion.com/sec(XpCeeMNY3Z5K08ImOEpf68tfnoEG16HF-pmgZg7YrvY)/dm/3/x7so2sc/s/live-2.m3u8
 
-#EXTINF:-1, HN - Alsacias
+#EXTINF:-1, HN, Alsacias
 https://emisoras.hn:8081/atv/tracks-v1a1/mono.m3u8?_=14
 
-#EXTINF:-1, HN - Hondured
+#EXTINF:-1, HN, Hondured
 https://5d597bfcee285.streamlock.net/hondured/hondured/chunklist_w264935168.m3u8?_=16
 
 
@@ -155,62 +155,77 @@ https://stream-04.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqvT0f0LFiKs5ektz-7
 
 
 
-#EXTINF:-1, CR -Telesistema
+#EXTINF:-1, CR, Telesistema
 http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w37187640.m3u8
 
-#EXTINF:-1, CR -Telered
+#EXTINF:-1, CR, Telered
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 
-#EXTINF:-1, CR - Telered
+#EXTINF:-1, CR, Telered
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1253847822.m3u8
 
-#EXTINF:-1, CR - Telesur
+#EXTINF:-1, CR, Telesur
 https://59ef525c24caa.streamlock.net/telesur/telesur/playlist.m3u8
 
-#EXTINF:-1, CR - Telesur
+#EXTINF:-1, CR, Telesur
 https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w269690273.m3u8
 
-#EXTINF:-1, CR - 
+#EXTINF:-1, CR, Teletica 
+https://www.dailymotion.com/cdn/live/video/x29e3wg.m3u8?sec=RRaQWohHhS0MzAc4pW5WUDt8VXGAi2eXKUv5bJItz6wbP7MPY3NclOSNIAJ8D02qQgZYjlayDGyPp5e1Em_sqQ
 
-#EXTINF:-1, CR - 
+#EXTINF:-1, CR, Teletica
+https://stream-01.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO554_IvcizU7prZDsB0bs9as)/dm/3/x29e3wg/s/live-0.m3u8
+
+#EXTINF:-1, CR, Teletica
+https://stream-01.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO554_IvcizU7prZDsB0bs9as)/dm/3/x29e3wg/s/live-1.m3u8
+
+#EXTINF:-1, CR, Teletica
+https://stream-01.nyc.dailymotion.com/sec(jlR0lJnpjfic8bXdlVDO554_IvcizU7prZDsB0bs9as)/dm/3/x29e3wg/s/live-2.m3u8
+
+#EXTINF:-1, CR -
 
 
 
 
 
 
-#EXTINF:-1, MX - ADN40
+
+#EXTINF:-1, MX, ADN40
 https://uscdn.viaqoo.tech/media/yearsum.m3u8
 
-#EXTINF:-1, MX - ADN40
+#EXTINF:-1, MX, ADN40
 https://dai.google.com/linear/hls/pa/event/XZLLJIhJRNqz33DGp6NdkA/stream/0ec5a256-ec0f-40e1-af55-04a7c9414938:CHS/master.m3u8
 
-#EXTINF:-1, MX - ADN40
+#EXTINF:-1, MX, ADN40
 https://dai.google.com/linear/hls/pa/event/XZLLJIhJRNqz33DGp6NdkA/stream/0ec5a256-ec0f-40e1-af55-04a7c9414938:CHS/variant/74c125caf68c8e28f5ff8a90224408ce/bandwidth/389400.m3u8
 
-#EXTINF:-1, MX - ADN40
+#EXTINF:-1, MX, ADN40
 https://dai.google.com/linear/hls/pa/event/XZLLJIhJRNqz33DGp6NdkA/stream/0ec5a256-ec0f-40e1-af55-04a7c9414938:CHS/variant/347dd514e4c301d219227132972fd749/bandwidth/673200.m3u8
 
-#EXTINF:-1, MX - Milenio
+#EXTINF:-1, MX, Milenio
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/57828478001/e2d6f7f4-7322-46c0-aa48-ec6ab78bea3b/10s/master.m3u8?fastly_token=NjAxYjJhMDhfMzVlZmIwNDA3ZTM2ZWYxZDk1OWMzYjUzODJjZGI3YjJhMzE2OTI1YjNkNjcxZTk1YTU2ZDFiNmVkZTI5ZTgxOQ%3D%3D
 
-#EXTINF:-1, MX - Milenio
+#EXTINF:-1, MX, Milenio
 https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/57828478001/e2d6f7f4-7322-46c0-aa48-ec6ab78bea3b/22397597-37bc-4c0e-9f06-83b69a96b583/10s/rendition.m3u8?fastly_token=NjAxYjM0ODlfNDEzY2NhYmUzNDQyZGE4YjhjMTVjNjliM2EyZDNiZGEzNmM3MmU0MzFlYTMxNmIxZjAzMmM5NjFmMDJhMjk0Mw%3D%3D
 
-#EXTINF:-1, MX - Milenio
+#EXTINF:-1, MX, Milenio
 https://metrics.brightcove.com/v2/tracker?domain=videocloud&platform=video-js&session=1af1ad49b3223f84b2828635&account=57828478001&destination=https%3A%2F%2Fwww.milenio.com%2Fmileniotv%2Fprogramas&platform_version=6.22.7&player=players.brightcove.com%2F57828478001%2FSyoL14kBx_default&player_name=Milenio%20En%20Demanda%20tv.milenio.com&source=https%3A%2F%2Fwww.google.com.sv%2F&time=1609972685100&usage=hls-demuxed%2Chls-rendition-blacklisted&event=video_engagement&player_height=415&player_width=627&video_duration=2479.010000000008&video=6220572674001&video_name=Milenio%20Noticias%2C%20con%20H%C3%A9ctor%20Zamarr%C3%B3n%2C%2005%20de%20enero%20de%202021&rendition_url=https%3A%2F%2Fmanifest.prod.boltdns.net%2Fmanifest%2Fv1%2Fhls%2Fv4%2Fclear%2F57828478001%2Fe2d6f7f4-7322-46c0-aa48-ec6ab78bea3b%2F09a80624-f43a-4ff2-8b30-c86f70b81baa%2F10s%2Frendition.m3u8%3Ffastly_token%3DNjAxYjM0ODlfOTQ4ZTcxMmZhMzJiNTlkMjNkMGNjODhkZjBlODZmNDgwMzNjZWUzYTNiZjU1MDE0OTYzOWNjNGZmOTIwMzNjMw%253D%253D&rendition_indicated_bps=902000&rendition_mime_type=application%2Fvnd.apple.mpegurl&rendition_height=360&rendition_width=640&media_requests=10&media_transfer_duration=23036&media_bytes_transferred=5758816&measured_bps=3551753&rebuffering_seconds=0.3&forward_buffer_seconds=30.244346&range=0..8&qos.bitrates=%7B%22bitrates%22%3A%5B%5B1609972681592%2C3791398%5D%2C%5B1609972684492%2C3551753%5D%5D%2C%22playlists%22%3A%5B%5B1609972677148%2C1082401%2C902000%5D%5D%2C%22rendered%22%3A%5B%5B1609972675358%2C1192400%5D%5D%2C%22throughput%22%3A%5B%5B1609972681592%2C124627428%5D%2C%5B1609972684492%2C162105814%5D%5D%7D&qos.events.content.loadstart=1609972665777&qos.events.ad.play=1609972665781&qos.events.ad.loadedmetadata=1609972673246&qos.events.ad.loadeddata=1609972673288&qos.events.content.playing=1609972675150&qos.player.dimensions=%5B%5B1609972673247%2C%22100x100%22%2C%22627.188x415%22%5D%5D&qos.player.pixelratio=%5B%5B1609972673247%2C1%5D%5D&qos.player.screendimensions=%5B%5B1609972673247%2C%221366x768%22%5D%5D&qos.frames.dropped=0&qos.frames.corrupted=0&qos.frames.total=301&seq=8_0
 
-#EXTINF:-1, MX - Milenio
+#EXTINF:-1, MX, Milenio
 https://sb.scorecardresearch.com/p?c1=2&c2=6906371&ns_ap_pn=js&ns_ap_pfm=html&ns_type=hidden&ns_st_sv=6.1.0.170130&ns_st_pv=1.5.1.190515&ns_st_smv=5.8&ns_st_it=c&ns_st_id=1609972664845&ns_st_ec=1&ns_st_sp=1&ns_st_sc=1&ns_st_psq=1&ns_st_asq=1&ns_st_sq=1&ns_st_ppc=1&ns_st_apc=1&ns_st_spc=1&ns_st_cn=1&ns_st_ev=play&ns_st_po=0&ns_st_cl=2479102&ns_st_el=2479102&ns_st_pb=1&ns_st_mp=brightcove&ns_st_mv=6.22.7&ns_st_pn=1&ns_st_tp=0&ns_st_ci=6220572674001&ns_st_pt=0&ns_st_dpt=0&ns_st_ipt=0&ns_st_et=0&ns_st_det=0&ns_st_upc=0&ns_st_dupc=0&ns_st_iupc=0&ns_st_upa=0&ns_st_dupa=0&ns_st_iupa=0&ns_st_lpc=0&ns_st_dlpc=0&ns_st_lpa=0&ns_st_dlpa=0&ns_st_pa=0&ns_ts=1609972675391&ns_st_bc=0&ns_st_dbc=0&ns_st_bt=0&ns_st_dbt=0&ns_st_bp=0&ns_st_lt=10546&ns_st_skc=0&ns_st_dskc=0&ns_st_ska=0&ns_st_dska=0&ns_st_skd=0&ns_st_skt=0&ns_st_dskt=0&ns_st_pc=0&ns_st_dpc=0&ns_st_pp=0&ns_st_br=0&ns_st_rt=100&ns_st_ub=0&ns_st_vo=100&ns_st_ws=norm&ns_st_ki=1200000&ns_st_pl=Milenio%20Noticias%2C%20con%20H%C3%A9ctor%20Zamarr%C3%B3n%2C%2005%20de%20enero%20de%202021&ns_st_pr=Milenio%20Noticias%2C%20con%20H%C3%A9ctor%20Zamarr%C3%B3n%2C%2005%20de%20enero%20de%202021&ns_st_sn=*null&ns_st_en=*null&ns_st_ep=Milenio%20Noticias%2C%20con%20H%C3%A9ctor%20Zamarr%C3%B3n%2C%2005%20de%20enero%20de%202021&ns_st_ty=video&ns_st_ct=vc00&ns_st_cs=100x100&ns_st_st=*null&ns_st_pu=*null&ns_st_cu=https%3A%2F%2Fmanifest.prod.boltdns.net%2Fmanifest%2Fv1%2Fhls%2Fv4%2Fclear%2F57828478001%2Fe2d6f7f4-7322-46c0-aa48-ec6ab78bea3b%2F10s%2Fmaster.m3u8%3Ffastly_token%3DNjAxYjJhMDhfMzVlZmIwNDA3ZTM2ZWYxZDk1OWMzYjUzODJjZGI3YjJhMzE2OTI1YjNkNjcxZTk1YTU2ZDFiNmVkZTI5ZTgxOQ%253D%253D&c3=MILENIOTV&c4=*null&c6=*null&c7=https%3A%2F%2Fwww.milenio.com%2Fmileniotv%2Fprogramas&c8=Programas%20en%20Milenio%20Televisi%C3%B3n%3A%20noticias%20en%20vivo%20las%2024%20horas%20-%20Grupo%20Milenio&c9=https%3A%2F%2Fwww.google.com.sv%2F
 
-#EXTINF:-1, MX - Canal 11, México
+#EXTINF:-1, MX, Canal 11, México
 https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/playlist.m3u8
 
-#EXTINF:-1, MX - Canal 11, México
+#EXTINF:-1, MX, Canal 11, México
 https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/chunklist_w702039277_b1300000_slesp.m3u8
 
-#EXTINF:-1, MX - Canal 11, México
+#EXTINF:-1, MX, Canal 11, México
 https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/chunklist_w702039277_b1000000_slesp.m3u8
+
+
+
+
 
 
 
