@@ -86,6 +86,9 @@ https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil
 #EXTINF:-1, HN, TEN TV
 http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/chunklist_w346930306_b698000.m3u8
 
+#EXTINF:-1, HN, TEN TV
+http://5a90011f1fc27.streamlock.net:443/TENHD/TENLive.smil/chunklist_w91958121_b1248000.m3u8
+
 #EXTINF:-1, HN, UTV
 https://live-utv.unah.edu.hn/web/salida.m3u8
 
