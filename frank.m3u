@@ -306,10 +306,19 @@ https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1596577600.m3u8
 #EXTINF:-1, RD, Telesistema Canal 11
 https://ss5.domint.net:3016/tv11_str/canal11/playlist.m3u8
 
-#EXTINF:-1, RD - Telesistema, Canal 11
+#EXTINF:-1, RD, Telesistema, Canal 11
 https://ss5.domint.net:3016/tv11_str/canal11/chunklist_w2102670102.m3u8
 
-#EXTINF:-1, RD - Señales TV
+#EXTINF:-1, RD, Colorvisión
+https://stream-01.sv4.dailymotion.com/sec(O-7bth6lxCIslucX64-RY8Bg3ZTueZCL57FYD_xgCLQ)/dm/3/x7gy059/d/live-0.m3u8
+
+#EXTINF:-1, RD, Colorvisión
+https://stream-01.sv4.dailymotion.com/sec(O-7bth6lxCIslucX64-RY8Bg3ZTueZCL57FYD_xgCLQ)/dm/3/x7gy059/d/live-1.m3u8
+
+#EXTINF:-1, RD, Colorvisión
+https://www.dailymotion.com/cdn/live/video/x7gy059.m3u8?sec=akqmKB-jNrmMNz-LdK1PmWFay0Pd-Wo2lUa0RIz7R12y7us4EnUTi7nN2XpxOI-uwRvN-lAsomfSntczqSZ5eQ
+
+#EXTINF:-1, RD, Señales TV
 https://rctvhdstream.com:8081/senalestvlive/tracks-v1a1/mono.m3u8
 
 
@@ -463,6 +472,8 @@ https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8
 
 
 
+
+
 #EXTINF:-1, EC, ACV - AC Visión
 https://stmv.panel.mivideo.pro/acvisionecuador/acvisionecuador/playlist.m3u8?_=2
 
@@ -488,6 +499,16 @@ https://5f700d5b2c46f.streamlock.net/nortvision/nortvision/chunklist_w718780649.
 
 
 #EXTINF:-1, EC
+
+
+
+
+
+#EXTINF:-1, PE, Cable Visión Perú 
+https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8
+
+#EXTINF:-1, PE, Cable Visión Perú
+https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w1370648031.m3u8
 
 
 
