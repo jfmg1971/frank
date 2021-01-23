@@ -309,6 +309,9 @@ https://ss5.domint.net:3016/tv11_str/canal11/playlist.m3u8
 #EXTINF:-1, RD - Telesistema, Canal 11
 https://ss5.domint.net:3016/tv11_str/canal11/chunklist_w2102670102.m3u8
 
+#EXTINF:-1, RD - Señales TV
+https://rctvhdstream.com:8081/senalestvlive/tracks-v1a1/mono.m3u8
+
 
 
 
