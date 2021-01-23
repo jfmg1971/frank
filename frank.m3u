@@ -327,6 +327,7 @@ https://rctvhdstream.com:8081/senalestvlive/tracks-v1a1/mono.m3u8
 
 
 
+
 #EXTINF:-1, ES, TVE 1
 https://rtvelivestream.akamaized.net/la1_dvr.m3u8
 
@@ -387,6 +388,19 @@ https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/
 
 
 
+#EXTINF:-1, AR, Cable Visión
+https://videostream.shockmedia.com.ar:1936/cl3cable/cl3cable/playlist.m3u8
+
+#EXTINF:-1, AR, Cable Visión
+https://videostream.shockmedia.com.ar:1936/cl3cable/cl3cable/chunklist_w122512403.m3u8
+
+
+
+
+
+
+
+
 #EXTINF:-1, BO, Bolivia TV
 https://5fc584f3f19c9.streamlock.net/boliviatv/videoboliviatv/index.m3u8?_=2
 
@@ -406,6 +420,8 @@ https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/chunklist_w575
 
 
 #EXTINF:-1, BO
+
+
 
 
 
