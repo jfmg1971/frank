@@ -18,7 +18,10 @@ https://can1.krakeniptv.com:25463/live/agape/CPLdE2EadX/1764.m3u8?_=6
 https://5ca39be538307.streamlock.net/tves/smil:tves.smil/playlist.m3u8?DVR
 
 #EXTINF:-1, SV, Canal 10
-https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w147787476_b978000_sleng.m3u8
+https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w1806640140_b478000_sleng.m3u8
+
+#EXTINF:-1, SV, Canal 10
+https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w1027034814_b478000_sleng.m3u8
 
 #EXTINF:-1, SV, TRV
 https://panel.livetvvideo.net:1936/8182/8182/chunklist_w1170150541.m3u8
@@ -106,8 +109,6 @@ https://emisoras.hn:8081/metrotv/tracks-v1a1/mono.m3u8?_=6
 #EXTINF:-1, HN, Alsacias
 https://emisoras.hn:8081/atv/tracks-v1a1/mono.m3u8?_=14
 
-#EXTINF:-1, HN, Hondured
-https://5d597bfcee285.streamlock.net/hondured/hondured/chunklist_w264935168.m3u8?_=16
 
 
 
@@ -162,12 +163,6 @@ https://59ef525c24caa.streamlock.net/telesur/telesur/playlist.m3u8
 
 #EXTINF:-1, CR, Telesur
 https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w269690273.m3u8
-
-#EXTINF:-1, CR, Canal 13
-https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZQy3IW6Y7X_vOo9Q0dh7XxI)/dm/3/x7vh8g3/d/live-0.m3u8
-
-#EXTINF:-1, CR, Canal 13
-https://stream-02.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZQy3IW6Y7X_vOo9Q0dh7XxI)/dm/3/x7vh8g3/d/live-1.m3u8
 
 #EXTINF:-1, CR, 
 
@@ -359,18 +354,8 @@ https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500
 #EXTINF:-1, CO, Telepacífico
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1, CO, Canal TRO
-https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
-
-#EXTINF:-1, CO, Canal TRO
-https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/chunklist_b900000.m3u8
-
 #EXTINF:-1, CO, Canal Institucional
 https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist.m3u8
-
-#EXTINF:-1, CO, Canal Institucional
-https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b500000.m3u8
-
 
 
 
@@ -412,6 +397,7 @@ https://5f700d5b2c46f.streamlock.net/nortvision/nortvision/chunklist_w718780649.
 
 
 
+
 #EXTINF:-1, PE, TV de PERU
 
 #EXTINF:-1, PE, Cable Visión Perú 
@@ -419,6 +405,7 @@ https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8
 
 #EXTINF:-1, PE, Cable Visión Perú
 https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/chunklist_w1370648031.m3u8
+
 
 
 
@@ -506,6 +493,9 @@ https://telemadridhls-live-hls.secure.footprint.net/telemadrid/telemadrid1/bitra
 
 #EXTINF:-1, ES, Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?&test
+
+#EXTINF:-1, ES, Canal Extremadura
+https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1.smil/playlist.m3u8
 
 #EXTINF:-1, ES, Canal Vasco eitb
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
