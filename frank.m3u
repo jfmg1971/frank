@@ -197,9 +197,6 @@ https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w269690273.m3u8
 #EXTINF:-1, MX, ADN40
 https://dai.google.com/linear/hls/pa/event/XZLLJIhJRNqz33DGp6NdkA/stream/1dc8a216-e22b-416d-9002-b564cd15cf74:MRN2/variant/347dd514e4c301d219227132972fd749/bandwidth/673200.m3u8
 
-#EXTINF:-1, MX, Milenio
-https://manifest.prod.boltdns.net/manifest/v1/hls/v4/clear/57828478001/e2d6f7f4-7322-46c0-aa48-ec6ab78bea3b/10s/master.m3u8?fastly_token=NjAxYjJhMDhfMzVlZmIwNDA3ZTM2ZWYxZDk1OWMzYjUzODJjZGI3YjJhMzE2OTI1YjNkNjcxZTk1YTU2ZDFiNmVkZTI5ZTgxOQ%3D%3D
-
 #EXTINF:-1, MX, Canal 11, México
 https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/playlist.m3u8
 
