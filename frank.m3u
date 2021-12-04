@@ -42,6 +42,11 @@ https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/chunklist_b5
 https://panel.livetvvideo.net:1936/8182/8182/chunklist_w1170150541.m3u8
 
 #EXTINF:-1, SV, TVO Televisión Oriental
+https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/chunklist_w880343488_b478000_sleng.m3u8
+
+#EXTINF:-1, SV, TVO Televisión Oriental
+https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/media_w880343488_b478000_sleng_19911.ts
+
 http://168.227.22.18:1935/live/eior48nr/playlist.m3u8
 
 #EXTINF:-1, SV, TVM Televisión Migueleña
