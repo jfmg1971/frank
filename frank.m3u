@@ -12,10 +12,7 @@ https://secure-video.tcsgo.com/tcshd/index720p30360p30_20200822T210827.m3u8?_=14
 https://secure-video.tcsgo.com/tcshd/index720p30360p30_20200822T210827.m3u8?_=14
 
 #EXTINF:-1, SV, Canal 8 - Agape TV
-https://can1.krakeniptv.com:25463/live/agape/CPLdE2EadX/1764.m3u8?_=6
-
-#EXTINF:-1, SV, Canal 9TV - Televisión Legislativa
-https://app.asamblea.gob.sv/hls/plenariahd.m3u8
+https://agptv.dominiocreativo.com:2083/live/agapetv8/0TCtPk7Yq7/1.m3u8
 
 #EXTINF:-1, SV, Canal 10
 https://5ca39be538307.streamlock.net/tves/smil:tves.smil/playlist.m3u8?DVR
@@ -27,7 +24,7 @@ https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w1806640140_b
 https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w1027034814_b478000_sleng.m3u8
 
 #EXTINF:-1, SV, Canal 11
-https://grupocsanetwork.com:1936/canal11/canal11/chunklist_w619622267.m3u8
+https://algochivo.com:1936/canal11/canal11/chunks.m3u8?nimblesessionid=1000745
 
 #EXTINF:-1, SV, Canal 12
 https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2Mzc5MDg3LCJzZXNzaW9uIjoiMTkwLjg3LjE2Mi40NCIsIndoaXRlbGlzdCI6WyIxOTAuODcuMTYyLjQ0Il19LCJzaWduYXR1cmUiOiJmYjFmMzg2M2I0NjMxNDA0ZTI0OWY2N2MxNTI3MTY1YTJlNjEzNTY4In0=
@@ -39,15 +36,10 @@ https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/chunklist_b2
 https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/chunklist_b512000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2Mzc5MDg3LCJzZXNzaW9uIjoiMTkwLjg3LjE2Mi40NCIsIndoaXRlbGlzdCI6WyIxOTAuODcuMTYyLjQ0Il19LCJzaWduYXR1cmUiOiJmYjFmMzg2M2I0NjMxNDA0ZTI0OWY2N2MxNTI3MTY1YTJlNjEzNTY4In0%3D
 
 #EXTINF:-1, SV, TRV
-https://panel.livetvvideo.net:1936/8182/8182/chunklist_w1170150541.m3u8
+https://2nbyj587d53k-hls-live.5centscdn.com/13/9709f63f970338d12cf00458eeeaf24c.sdp/chunks.m3u8
 
 #EXTINF:-1, SV, TVO Televisión Oriental
 https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/chunklist_w880343488_b478000_sleng.m3u8
-
-#EXTINF:-1, SV, TVO Televisión Oriental
-https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/media_w880343488_b478000_sleng_19911.ts
-
-http://168.227.22.18:1935/live/eior48nr/playlist.m3u8
 
 #EXTINF:-1, SV, TVM Televisión Migueleña
 http://ispmanager.flynetwifi.com:1935/tvm/tvm.stream/playlist.m3u8
@@ -71,12 +63,10 @@ https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/chunklist_w150525
 https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/chunklist_w767475771_b978000_DVR_sleng.m3u8
 
 #EXTINF:-1, SV, Orbita TV
+https://tna5.bozztv.com/OrbitaFM/index.m3u8
 
 #EXTINF:-1, SV, Elim TV
-https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/master.m3u8
-
-#EXTINF:-1, SV, Elim TV
-https://dcunilive15-lh.akamaihd.net/i/dclive_1@397642/index_150_av-p.m3u8?sd=6&rebase=on
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/chunklist_b4628000.m3u8?p=79&s=1639533994&e=1639534114&h=16e6057232d8faed7ccd114e806b3582
 
 #EXTINF:-1, SV, Tele 1
 http://streamingcws40.com:1935/canaluno/videocanaluno/playlist.m3u8
@@ -85,10 +75,7 @@ http://streamingcws40.com:1935/canaluno/videocanaluno/playlist.m3u8
 https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8?DVR
 
 #EXTINF:-1, SV, Canal 33
-https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/chunklist_w426834102_b148000_DVR_sleng.m3u8
-
-#EXTINF:-1, SV, Canal 33
-https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/chunklist_w388673075_b148000_DVR_sleng.m3u8
+https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/chunklist_w1106304463_b1128000_DVR_sleng.m3u8
 
 #EXTINF:-1, SV, TVCa
 https://tvserver.ml:1443/tvca/live/chunklist_w1224922417.m3u8?_=10
@@ -279,6 +266,27 @@ https://rctvhdstream.com:8081/senalestvlive/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, AR, TV de ARGENTINA
 
+#EXTINF:-1, AR, Canal 9
+https://video-weaver.atl01.hls.ttvnw.net/v1/playlist/CpsFavHzorQPuUeckfJQkokpkMwYuLui2YtuRm8g4LXPAdsvXzMOL9TWZ5WHv7oK2J7tvGrpiCn3_nk3dkjI7r0kWs_uOPxINuOiF7UeutIMkvJhLRiP86GiWO25dBreE77GxhyT8RLWB5nFLnuwqfFtm2GdKUKncdgYWPWZYrYNyqUhqhmXI9Oh9BC4TSoraSk6_6EkiKv2HZGfPKAI7BjGnFtcxsaS8SHaU6rXm057pRt96P8GTGSvYfyUp-kG_YYsmX1oYvObyyYJG6WNQWBjrkIL8dgHXpObhdZx93kD1N_V1w6Dzdg6Siz76IjJk8fEROC80VZWFiaM-SXBfbRexHUm5-86e8-Z73HeDwzU13oALivKnOAfYhbAUDo7upKaivDcEwf-g8aaH-wOt9KXpQFAYoeAtHgcjQG9Cn0vHWsSdSLIhBeq0TG4PsvAiUWaD91oHA3hakQLOXoaL0YgxXMEPOvUWudZIVd9qWwzHKOxpF3iC5fakYMsHPhZ6I2-yLgghK7EPtAKEjMjm5VbkpjR7LW_xy5vZYxUrgxWq3kzL8QGJGn4tXzX-mXipr6h560dNTINhMU6Rl_0S3We7Kyl8fzLGcOVQgP5f_xGWvCjdeZregXTDA-W0cRZqzl1UJ7ffnPwzAi94gka-6fgPNtmun3vUc_5IrrEsKp1TN6merXiyUNJde3RqReUA-GrEuY3VsDaBdNbcewKRmeLTvQ2h073HzYIsrSGRF_feRtRsndvInvM1IQZLyRKzAwyzMXmSzSHN9KQldKDPub8z-w_E6sbVkpgFH9F5KuwizkwM6pL6x5NGdyYbg4ICm_euDdwBW0m4eA3uGFtjO50mnegLPlLzE9D1QZ0TL4cHsKbfFfATBte_OLX8hoMDPePqFecQDMlgyOHIAEqCWV1LXdlc3QtMjDFAg.m3u8
+
+#EXTINF:-1, AR, América
+https://usher.ttvnw.net/api/channel/hls/ft10x98k.m3u8?allow_source=true&fast_bread=true&p=1188428&play_session_id=a5681d4a30ee3180157c8c8f8e72df31&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=21ae5b98adba0a6fecf4fd05b0a4e1801a550e2c&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22ft10x98k%22%2C%22channel_id%22%3A752658126%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22RKsEJZyquWked6yssC60hnoMHu4r1Hkx%22%2C%22expires%22%3A1639535866%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.87.162.95%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.7.0
+
+#EXTINF:-1, AR, América
+https://video-weaver.yto01.hls.ttvnw.net/v1/playlist/CqAFE11VigZnlLOUt9TOtxGbhMhwIS9jngHrCXsdatWWPaG38bGezgLgFVbTIQDEGNebtZ6E_Jqf4MkelhT3Jfw1kehV-JLAIpFqu6_Iu0SvQG3vg0ztDb-8d4XTyHEn6EzjjJ48b8K3if8vx3-CNgW_cdW_pFCZcRxKeiQxowMoNzlnFdaiKR1uT05WUwfyibPebwCcTF0J3NRRCcrzl4FgRtbeNF029s2CkJE3pqc4-v36Jo9aictTrOBo-5Otf8AzN3S3SGiiQLd8NRYwWaiCK82GdhdTRBpHyaVK8EkYeuo58yIitFr1qNDn2O0taSIn8D5bAqNF1JPG8UQo9DQLfQwVaiWzgt3RtOCd0Nx43wVHAPw8TS9zpN4pfqQPQPa-ZndzjRfmgxacjVggydDmMUkBaV5L6W3eMBKW60iJNLpItEke6rLFKAC_iUt59YQwADyGJzBrxPbHCdJUq_ZS0HVLiU_MeAU0UCbEzlTT3dSpnMoOC491AZw8V6aOpGzCJ8wLecO3QDcq72PJ5zn3mmxVn1ZoX6oEMLIj41Z5loiVfJpzge6hgYZkSwv8TJ8FHEnJ3vAgFZH_J_CmR_yALbeh73HmuJsn6Xt2-JUj37Rx6eGYUVxLgCw9fyO-_-Sshhndo2CyYG9A4lm-kWZVh_NNXRaxcDSlmLo3hXjpkHXl8YoMuz4iPjDA9AY4LWnUU8mZH9JvXbjyH13Vjujjk-kVwVS9pCu_s9eYcFtH6kaTqxxhamJnSkScKC2GrPaC1XGsnUbSCKHwnMwzUWIdMxn0ioirfIGo5P_PqiApF34Lhk6ju39n6unBQCqGJPMvKfkO0PsxXHyI0bPHRi5CjMoPCIZXfQYwa2uDvw4BUuolMYs2KMIX2ZIgldpl7LjyGgzRUHGiVpWa0IKvFcYgASoJZXUtd2VzdC0yMMUC.m3u8
+
+#EXTINF:-1, AR, América
+https://video-weaver.yto01.hls.ttvnw.net/v1/playlist/Cp4FoFsnqUDu-kHQZrcC38OCVrfOp6uBs-mD8OFKmiT6_lDEszwqAWhLftf_dUDxyJECwGjmG-dV3HxLgE19N8sby0_WzHjGLMFia2LqbsjByHXtmjqzgIld0oajPQ5kWcLqQFl9K6S65XPKh54FfWmUogjcqty9os4rmtYa8ZCUXeXgpg7fAUvwnBST8pc6gszSO8PCVkmFE4BqIdn3wXnfvnX2ZoBcGM5qjs28Im04tkO-vy-dRpW7_PDiE4OcsoU_HONaHTdtXN2m2TB1G_wNZ8FPz28ZqXuqwFzxdGsqlhEXZ5rt_oVD1cEfZ2phwgh18Kwo5euBVZLIW1olC6HElDnW6qHykKAfj76Jl7s_fhfDi__0SDukOu4ccV1KVrgt_swkeVXdKieLbgXPNAwrOEhDIQMECmmMWCRWFpuFcpHI_CluR0uaYuGAMm0A7V0BSc3HyKu3zV7T_rZNqwLUVVJB-Z3g-Yo3MT4PNB0WxsIrZSJJHegFTd94mMVnCN14R97x65E4U2iQLaFBMmCRs4YI1KK4VK9vPu-uwlaxYuQ2-3ayIE7XOcbSj7Xo6DYAtoNa0x3uVzta_xG6xURwZ-ETey_U8bk2i4GdI5fNMFXTFH9SEwiTkb2RKu98ae7FJ6C4lUOOWO-g1-bqh71jl5bGPyWmEs9XCCvoejOf3L_U2g5cphhzGhuK8brbRtXQyFibZCXvCYKVo4YHfn7roZBhtQz-4pd3k8oBE4Jg4vdc7dCMcjGGGMHi-CV1dI0QILkQjsoCc6wje5r0VYOMoNPuOSFlKo80Hb93e7BRBWNWoIVpJYfZcveg3-hooFsLu1i4Xlof6RoEtqyJLj8D7jUtJZFp01WywmitMcLv6S37wIF0Sso3VR-S-2iAjRoMaAMA6UcBT31L287TIAEqCWV1LXdlc3QtMjDFAg.m3u8
+
+#EXTINF:-1, AR, Canal Rural
+https://cda2.alsolnet.com/elrural/live/chunklist_w41596598.m3u8
+
+#EXTINF:-1, AR, Canal Telemax
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1523649287_b1828000_sleng.m3u8
+
+#EXTINF:-1, AR, TV Pública
+https://cntlnk-main-edge-access.secure.footprint.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_480p.m3u8
+
 #EXTINF:-1, AR, Cable Visión
 https://videostream.shockmedia.com.ar:1936/cl3cable/cl3cable/playlist.m3u8
 
@@ -291,23 +299,17 @@ https://videostream.shockmedia.com.ar:1936/cl3cable/cl3cable/chunklist_w12251240
 
 
 
-
 #EXTINF:-1, BO, TV de BOLIVIA
 
 #EXTINF:-1, BO, Bolivia TV
-https://5fc584f3f19c9.streamlock.net/boliviatv/videoboliviatv/index.m3u8?_=2
+https://5f2c1b0d880e5.streamlock.net/boliviatv/videoboliviatv/chunklist_w5082243.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMSAyOjQ0OjAyIEFNJmhhc2hfdmFsdWU9bGErUGdaUDZJaTVqZWs2ZXBvMHBOZz09JnZhbGlkbWludXRlcz01MCZpZD0%3D
 
 #EXTINF:-1, BO, Bolivia TV
-https://5fc584f3f19c9.streamlock.net/boliviatv/videoboliviatv/chunklist_w1532968539.m3u8?_=2
+https://5f2c1b0d880e5.streamlock.net/boliviatv/videoboliviatv/chunklist_w187485011.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMSAyOjQ3OjIwIEFNJmhhc2hfdmFsdWU9eEhFa1hzQTE4a05yUW9PeHhTQjB2dz09JnZhbGlkbWludXRlcz01MCZpZD0%3D
 
-#EXTINF:-1, BO, Pat HD
-https://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8?_=12
+#EXTINF:-1, BO, Bolivisión 
+https://bo-bolivision-lapaz-live.ned.media/bolivision/smil:lapaz.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM5NjIzMDkzLCJzZXNzaW9uIjoiMTkwLjg3LjE2Mi45NSIsIndoaXRlbGlzdCI6WyIxOTAuODcuMTYyLjk1Il19LCJzaWduYXR1cmUiOiI4NjZjZTZmNjIyM2U1ZWUyY2IxNDE0MzViYmY2NjllZWZlNDQyZjA0In0%3D
 
-#EXTINF:-1, BO, Pat HD
-https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/index.m3u8?_=14
-
-#EXTINF:-1, BO, Pat HD
-https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/chunklist_w575448991.m3u8?_=14
 
 #EXTINF:-1, BO, 
 
@@ -326,11 +328,11 @@ http://unlimited1-us.dps.live/campustv/campustv.smil/playlist.m3u8
 #EXTINF:-1, CL, Campus TVHD, Universidad de Talca
 http://unlimited1-us.dps.live/campustv/campustv.smil/campustv/livestream2/chunks.m3u8?nimblesessionid=6419281
 
-#EXTINF:-1, SPORT, CDO - Chile
-https://tls.cdnz.cl/cdofree/smil:cdn.smil/playlist.m3u8
+#EXTINF:-1, CL, TVN - Chile
+https://us-b4-p-e-cz3.cdn.mdstrm.com/live-stream-dai/c772e2ff710d47519accb36341713f3b/manifest/f624fec49dadc88894ebeff1d974eab019af7757/57a498c4d7b86d600e5461cb/61685c7e-5b06-48de-a83a-eb78c001e1aa/2.m3u8?aid=51c2f628b440bd797900051f&uid=P181SzEtNn6GSsvRizNjO0ql3mW1pVPR&sid=JznbBEtPCFID1ZpCVf7ppiTpMgJcCPJ7&pid=fEMWgEO6NF6pBU2210sdHdCFYttlA7pq&ref=https%3A%2F%2Ftoken.tvn.cl%2F&without_cookies=false&dnt=true&access_token=rAmVFkziwmEiro8VkXTdUOJsDHNdYaGE5ju8TDYop9dbyxgSZ7jBEY10oem1JTaiJsmjJo2prl8&es=us-b4-p-e-jv10.cdn.mdstrm.com&ote=1639623335141&ot=zJf3X3zviK46pa3_u3gl5A&proto=https&pz=us
 
-#EXTINF:-1, SPORT, CDO - Chile
-https://tls.cdnz.cl/cdofree/smil:cdn.smil/chunklist_w749399682_b500000_slesp.m3u8
+#EXTINF:-1, CL, 
+
 
 
 
@@ -340,6 +342,9 @@ https://tls.cdnz.cl/cdofree/smil:cdn.smil/chunklist_w749399682_b500000_slesp.m3u
 
 
 #EXTINF:-1, CO, TV de COLOMBIA
+
+#EXTINF:-1, CO, Cali TV
+https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/chunklist_w1427239094_tkd293emF0b2tlbmVuZHRpbWU9Jndvd3phdG9rZW5oYXNoPVJCZkVwcnI0dTE4ZjNJaEh3VkNoU2h4ZVAxemNUd08wUHBGWU5uTWZjTUE9Jndvd3phdG9rZW5zdGFydHRpbWU9.m3u8?185.226.65.138
 
 #EXTINF:-1, CO, UAO Play
 https://5f2eaf2aa4061.streamlock.net/live/smil:Televitrola.smil/chunklist_w2077511277_b1048000_slES.m3u8?_=4
@@ -377,23 +382,18 @@ https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/playlist
 
 #EXTINF:-1, EC, TV de ECUADOR
 
-#EXTINF:-1, EC, ACV - AC Visión
-https://stmv.panel.mivideo.pro/acvisionecuador/acvisionecuador/playlist.m3u8?_=2
+#EXTINF:-1, EC, Ecuavisa
+https://video-weaver.yto01.hls.ttvnw.net/v1/playlist/CrUFIYGiuEyc7BBwIm6W9TztT9LWXSNn7cAGszKEqA0t4_DeRE5SRyBqzXDEbyOQpvj2gM6JpDHL-Oz_8n1D042r6yhvXNOQYs_XAga1vTBzKmbU0wlWjEpKCdqZ8tPIuelzqch3vHb_kZC0RdNHhmAhbOsaGeOYL2ITzX2tShbqu9kpXPwNmsg4br1vH0Prav9qwCDjP6AQLgxDhSFrV9TlLP6tyB55NNEAphcrBhAnQKjRjVGlmtHerEQzE4hTguXPwdZppanaoDRrx0uRLYPNkrm9A1EoR4AuPdvqOST2EyzQHlRAMbzmzuVPxWNlniwpKXVx7-O_sHHO_HqnFw17ByThwZUwsnR4sNDqQS4oqRQVvLXaMN_9EvDyuIK0zHfJ7omkXsQH7mianS_0D8kAmYTyKC25W34MNlDV89uW1a_q-hVPcUWN5SHnhbT5vXTe4gnz74O41yIAtd7hxbD2P1P2cyXhS7PCC1CVn1uKTwteuChC-_71Uoy7S2PO9yCg9neJKMmYq122j2AEPkFWPmbdc3ni9xF_Df0Uzrn9cFzua7Ze82ZXQ0g3mamIO6B8Xj_Epk1A8uk_ISupYzMjfQcdflydxB4WaJS4OWYjXIKjwfYY0UGfV4LGpDOQsJ-MY6ub_2q2qLwk8m0RxOkYDZEKq1kH_UgP9V5GHoCqVBqMsAjsDlEH7ZY8rXVzEQ92AtNUUg9O-uhBq4E1DNs3HLupkND8eYyncTRbqMyZcOGbsfYiqURFBpTBzLGmylM-NN6WsQKIzx3lAr4tDqNMEQATvGTeQxyNFTS0wKvm2x3Q3qJ2dE7LHlz-Y0Hu21z04kmi9sNrUFNp0L90EA06Hbnk16L13pHTw0YLB7jKzh7xiII7YtV5K-XADTWod5r45NZrBHHFNeVHYiXVteN06wduve5jGgw7WhDEE4s9mbCxtlQgASoJZXUtd2VzdC0yMMUC.m3u8
 
-#EXTINF:-1, EC, ACV - AC Visión
-https://stmv.panel.mivideo.pro/acvisionecuador/acvisionecuador/chunklist_w1905693914.m3u8?_=2
+#EXTINF:-1, EC, Canal Uno
+https://vps-c97214f4.vps.ovh.net/hls/ecutv3.m3u8
 
-#EXTINF:-1, EC, FMTV 2 Movies
-https://stmv.panel.mivideo.pro/infinitatvpremium/infinitatvpremium/playlist.m3u8?_=4
+#EXTINF:-1, EC, Canela TV
+https://59d39900ebfb8.streamlock.net/canelatv/canelatv/playlist.m3u8
 
-#EXTINF:-1, EC, FMTV 2 Movies
-https://stmv.panel.mivideo.pro/infinitatvpremium/infinitatvpremium/chunklist_w2076231787.m3u8?_=4
+#EXTINF:-1, EC, Canela TV
+https://59d39900ebfb8.streamlock.net/canelatv/canelatv/chunklist_w1254286433.m3u8
 
-#EXTINF:-1, EC, ASOMAVISIÓN
-https://asomastream.duckdns.org/livestream/stream.m3u8?_=12
-
-#EXTINF:-1, EC, Nortvisión
-https://5f700d5b2c46f.streamlock.net/nortvision/nortvision/chunklist_w718780649.m3u8?_=14
 
 #EXTINF:-1, EC
 
@@ -650,6 +650,9 @@ https://streannlive-lh.akamaihd.net/i/retrotv_1@19771/index_1_av-b.m3u8?sd=10&se
 
 
 #EXTINF:-1, TRAVEL, Canales de Viajes
+
+#EXTINF:-1, TRAVEL, Viajar TV
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/b1b273c853364b69b96eccb55a550536/chunklist_b4628000.m3u8?p=79&s=1639539781&e=1639539901&h=efa57fb8796a96f6393f4ab09c2b6137
 
 #EXTINF:-1, TRAVEL BU, Travel TV, Bulgaría
 http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
