@@ -89,6 +89,9 @@ https://tvserver.ml:1443/tvca/live/chunklist_w1224922417.m3u8?_=10
 
 #EXTINF:-1, HN, TV de HONDURAS
 
+#EXTINF:-1, HN, Dios TV Kids
+https://emisoras.hn:8081/diostevekids/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1, CA, Sercano TV
 http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w2092017170_b1248000.m3u8
 
