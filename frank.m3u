@@ -12,7 +12,10 @@ https://secure-video.tcsgo.com/tcshd/index720p30360p30_20200822T210827.m3u8?_=14
 https://secure-video.tcsgo.com/tcshd/index720p30360p30_20200822T210827.m3u8?_=14
 
 #EXTINF:-1, SV, Canal 8 - Agape TV
-https://agptv.dominiocreativo.com:2083/live/agapetv8/0TCtPk7Yq7/1.m3u8
+https://usher.ttvnw.net/api/channel/hls/agapetv8.m3u8?allow_source=true&fast_bread=true&p=3370856&play_session_id=fc4a2a3933b91b7ca67c32598b4206d5&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=16075f059887f75fdbb901d131fce5054f53fd00&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22agapetv8%22%2C%22channel_id%22%3A767084046%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22e8f126f93df9c19c%22%2C%22expires%22%3A1650736135%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.87.162.29%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.9.0
+
+#EXTINF:-1, SV, Canal 8 - Agape TV
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/Cv0EEgQ1N9ZWT2g1nBw_dxp-n34LRrzCjTZdkBvYi9FwtE9yHnIbDZ8Jeu0UIWRk8Kvc7Qu-yFaFclNaOTJKmEL5i-HZ7zUKOGpRm95llhSP0UMLnGxK4glGw1cT6wl9PFHM6Zv4_drPEcAhEchygVePNkhu736n5_-Z5DbsFvhEBac5b_Ya2CXXntAGxHYkJaCAb0hk_PfffDcAUs9qF9jAVHYWNU6hJMeP-C4w79zDwzBHIG77VXoWTXN1TV3eTs6bLk-vZe71NPW_vtd9vaHOMn65m9SN2U3btk2u9C_OYJzKssftSsRopqI6sgmPM2sQFG8-N_fJF2ADvCSArXEloOFAb8NmJHJrcBcbBGQB9LFyHlxuSf-4dSkv7IeF5EbdHu7XwVyvIVdjJfxRHWjA72Ui6BsYSOayh476wf1KaVv2Z69ZfbFrBdNtNOMm46cI23o2sPVHv3j1Qe-EdCE3G6N0XZUxpv6B9vrLYCuLmrNaDvqSEYxwR7ZsQAQnqYcXQ1YB-a2hAZ8vGwHP7KHhtM9puEDlUPxcxMFaLnDUhX9JM8QkJrxBedNhlnrLUb3qXzvD0cbi59g9IpI4z4vpHP4sSIR5MrxrQBVHGONYPRalNxonX4tVbpCvsTs-LM__eGHyNOtSPeU-2_PrLN8FJOpwsj7UGFcYAIIPLYK_Q9xVufRwzXc7Cto_vVPtizD_WyIbvn_TSFPB25KyWOGiLCqXMooPd2R2xv3UUlCQtzzy-KX_3kKA1MsvWyNqoyvnD5AxCu5BTa9BOhwV0GqhCcw1CkYaHlGdolPb2NB39Dn1KOnrJW5UIYrmCMUMLaQ3089OEVBjn9L_eS4iVxoMPJmUjesajyFk6YxkIAEqCWV1LXdlc3QtMjDGAw.m3u8
 
 #EXTINF:-1, SV, Canal 10
 https://5ca39be538307.streamlock.net/tves/smil:tves.smil/playlist.m3u8?DVR
@@ -24,7 +27,7 @@ https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w1806640140_b
 https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w1027034814_b478000_sleng.m3u8
 
 #EXTINF:-1, SV, Canal 11
-https://algochivo.com:1936/canal11/canal11/chunks.m3u8?nimblesessionid=1000745
+hhttps://algochivo.com:1936/canal11/canal11/chunks.m3u8?nimblesessionid=7632333
 
 #EXTINF:-1, SV, Canal 12
 https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2Mzc5MDg3LCJzZXNzaW9uIjoiMTkwLjg3LjE2Mi40NCIsIndoaXRlbGlzdCI6WyIxOTAuODcuMTYyLjQ0Il19LCJzaWduYXR1cmUiOiJmYjFmMzg2M2I0NjMxNDA0ZTI0OWY2N2MxNTI3MTY1YTJlNjEzNTY4In0=
@@ -39,7 +42,7 @@ https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/chunklist_b5
 https://2nbyj587d53k-hls-live.5centscdn.com/13/9709f63f970338d12cf00458eeeaf24c.sdp/chunks.m3u8
 
 #EXTINF:-1, SV, TVO Televisión Oriental
-https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/chunklist_w880343488_b478000_sleng.m3u8
+https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/chunklist_w414170083_b428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIyIDQ6NTg6MTggUE0maGFzaF92YWx1ZT1JZFQ5aHhqRVJoSVJhT1o0anBLRVFBPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
 
 #EXTINF:-1, SV, TVM Televisión Migueleña
 http://ispmanager.flynetwifi.com:1935/tvm/tvm.stream/playlist.m3u8
@@ -56,14 +59,26 @@ https://rtmp.info/soltv/envivo/playlist.m3u8
 #EXTINF:-1, SV, Sol TV
 https://rtmp.info/soltv/envivo/chunks.m3u8?nimblesessionid=64243632
 
+#EXTINF:-1, SV, Canal 15 Usulután
+https://algochivo.com:1936/canal15/canal15/playlist.m3u8
+
+#EXTINF:-1, SV, Canal 15 Usulután
+https://algochivo.com:1936/canal15/canal15/chunks.m3u8?nimblesessionid=7633908
+
 #EXTINF:-1, SV, Taber TV
 https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/chunklist_w1505259703_b978000_DVR_sleng.m3u8
 
 #EXTINF:-1, SV, Taber TV
 https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/chunklist_w767475771_b978000_DVR_sleng.m3u8
 
-#EXTINF:-1, SV, Orbita TV
-https://tna5.bozztv.com/OrbitaFM/index.m3u8
+#EXTINF:-1, SV, Orbita TV - Canal 25
+https://5dcabf026b188.streamlock.net/orbitatv/livestream/playlist.m3u8
+
+#EXTINF:-1, SV, Orbita TV - Canal 25
+https://5dcabf026b188.streamlock.net/orbitatv/livestream/chunklist_w1235835441.m3u8
+
+#EXTINF:-1, SV, Orbita TV - Canal 25
+https://video.twimg.com/ext_tw_video/1517875777479532545/pu/pl/NFQeIghJMiuCWwDc.m3u8?tag=12&container=fmp4
 
 #EXTINF:-1, SV, Elim TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/chunklist_b4628000.m3u8?p=79&s=1639533994&e=1639534114&h=16e6057232d8faed7ccd114e806b3582
@@ -77,8 +92,12 @@ https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8?DVR
 #EXTINF:-1, SV, Canal 33
 https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/chunklist_w1106304463_b1128000_DVR_sleng.m3u8
 
-#EXTINF:-1, SV, TVCa
-https://tvserver.ml:1443/tvca/live/chunklist_w1224922417.m3u8?_=10
+#EXTINF:-1, SV, TVCa - TV Católica - Canal 39
+https://usher.ttvnw.net/api/channel/hls/tvcaesa.m3u8?allow_source=true&fast_bread=true&p=4910635&play_session_id=208207aafe11091b63baa40e837beca3&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=e0c5c46c83df62af9ff9d44cd2e997126557960c&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22tvcaesa%22%2C%22channel_id%22%3A779478850%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22e8f126f93df9c19c%22%2C%22expires%22%3A1650736254%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.87.162.29%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.9.0
+
+#EXTINF:-1, SV, TVCa - TV Católica - Canal 39
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/CvwE1OL6EWN-H7GVF-WY8DKzEpEKAYURWoJCLm8lnJ1cnhkQOl5x7ZO-KE2KYHRl_Sd2V2UYNNq-FEGxKJYvVY5DNaCkZ3gpykUpK112V1-FPEv2fMAfadtKyED8FcFkIJOcL5MQjDCTJauFAC7yNXGRJ3D3oAVgIjNeu6DgJ6NCqUF5qcjJR_YfMplM-SgoTma6wz9kPDI7GKU9vPXmNDLgRAeQR9Qog_zuM2-EdojRTONtlMkqLqdySAto7296thFt87YaKSC-MRQitk1M_2mGH_QM16pvQlSGl5EQ0GJ3VkaZd_2WYLW7kMQet6YYAqoln5OyEefXArcjeNuEp23e2uC4McoRcmYmcIAtxk2dyr_kpQd73TZc30UPb2HL4C3rJ0Low3FKUhNHxhSj-ANAM-poFGMDdNN1GJeaGe2VD3qJyrmebj9U37Y48pGORDgJccxIpj75n95Z_CK9JV72PvPsvjGLB-hcuTIjnk-0YtTtmWgEH5LCyAupF-WqeK02BgJ4AF1zBYikmg70HGpDLZ5l-pYPpBkglaTxPXxoFqgP7TnsI9NJQC6QRXL5TBnvCaUGZoCuuw99mNTWlEE8L129YZp0y67sE-EMJzBo5_pFttB9Dp7wpU4mhcPoEQWKsQ33VivBi6ZM9woYnuWP73yT7mtDyiEccjX9Pfpci_IRfs2EVC7SB7OugHRTVEIGfHFer-8kcLY-O5ekyCXHxSdwcgy6wUAZEPebWxOX6IExL4JBV8cCZH7k6OO0-8LdIn8qkE4ro73IjlyeTo0uoanq3FdFFZtFQ2QrfbhKuiF5dQw4OmLggxoj9K7LuoTMPWXgIwEZpNN13ABdGgzNUivXTErh4bmeqw8gASoJZXUtd2VzdC0yMMYD.m3u8
+
 
 #EXTINF:-1, SV, 
 
@@ -482,28 +501,49 @@ https://stmv.panel.mivideo.pro/infinitatvpremium/infinitatvpremium/chunklist_w20
 #EXTINF:-1, ES, TV de España
 
 #EXTINF:-1, ES, TVE 1
-https://rtvelivestream.akamaized.net/la1_dvr.m3u8
-
-#EXTINF:-1, ES, TVE 1
-https://rtvelivestream.akamaized.net/la1_dvr_1000.m3u8
+https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_360.m3u8
 
 #EXTINF:-1, ES, TVE 2
-https://rtvelivestream.akamaized.net/la2_dvr.m3u8
+https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main_360.m3u8
 
 #EXTINF:-1, ES, TVE 2
-https://rtvelivestream.akamaized.net/la2_dvr_1000.m3u8
+https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8?hdnts=exp=1650734531~hmac=d4a597d1b3b2bb728cae6dc10eec2f316326fafecf3e481495bdfda9af7388ee
+
+#EXTINF:-1, ES, TVE 2
+https://ztnr.rtve.es/ztnr/1688885.m3u8
+
+#EXTINF:-1, ES, RTVE 24h
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+
+#EXTINF:-1, ES, RTVE 24h
+https://rtvelivestreamv3.akamaized.net/24h/24h_main.m3u8?hdnts=exp=1650734724~hmac=0e7dafc82a115d5c8f2c057dcb5b1318ac1be04da3562d8b89d864cbcd6b9a9c
 
 #EXTINF:-1, ES, TVE 24h
-https://rtvelivestream.akamaized.net/24h_dvr.m3u8
+https://ztnr.rtve.es/ztnr/1694255.m3u8
 
 #EXTINF:-1, ES, TVE 24h
-https://rtvelivestream.akamaized.net/24h_dvr_1000.m3u8
+https://rtvelivestreamv3.akamaized.net/24h/24h_main_576.m3u8
 
 #EXTINF:-1, ES, TVE tdp
-https://rtvelivestream.akamaized.net/tdp_dvr_1850.m3u8
+https://ztnr.rtve.es/ztnr/1712295.m3u8
+
+#EXTINF:-1, ES, TVE tdp
+https://rtvelivestreamv3.akamaized.net/tdp/tdp_main.m3u8?hdnts=exp=1650734876~hmac=788c65156ec738a91cad1dd455775062235a98884843fb42ff9b5718a9ef926b
+
+#EXTINF:-1, ES, TVE tdp
+https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_720.m3u8
+
+#EXTINF:-1, ES, TVE tdp
+https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_1080.m3u8
 
 #EXTINF:-1, ES, Telemadrid
-https://telemadridhls-live-hls.secure.footprint.net/telemadrid/telemadrid1/bitrate_1.m3u8
+https://tvradiohls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/tvradio_1/index.m3u8
+
+#EXTINF:-1, ES, Telemadrid
+https://tvradiohls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/tvradio_1/bitrate_2.m3u8
+
+#EXTINF:-1, ES, Telemadrid
+https://sb.scorecardresearch.com/p?c1=2&c2=7514083&ns_ap_pn=js&ns_ap_pfm=html&ns_type=hidden&ns_st_sv=6.1.0.170130&ns_st_pv=1.5.1.190515&ns_st_smv=5.8&ns_st_it=c&ns_st_id=1650734533319&ns_st_ec=1&ns_st_sp=1&ns_st_sc=1&ns_st_psq=1&ns_st_asq=0&ns_st_sq=1&ns_st_ppc=1&ns_st_apc=1&ns_st_spc=1&ns_st_cn=1&ns_st_ev=play&ns_st_po=68572&ns_st_cl=0&ns_st_el=0&ns_st_pb=1&ns_st_mp=brightcove&ns_st_mv=6.54.0&ns_st_pn=1&ns_st_tp=0&ns_st_ci=5567379805001&ns_st_pt=0&ns_st_dpt=0&ns_st_ipt=0&ns_st_et=0&ns_st_det=0&ns_st_upc=0&ns_st_dupc=0&ns_st_iupc=0&ns_st_upa=0&ns_st_dupa=0&ns_st_iupa=0&ns_st_lpc=0&ns_st_dlpc=0&ns_st_lpa=0&ns_st_dlpa=0&ns_st_pa=0&ns_ts=1650734537970&ns_st_bc=0&ns_st_dbc=0&ns_st_bt=0&ns_st_dbt=0&ns_st_bp=0&ns_st_lt=4651&ns_st_skc=1&ns_st_dskc=1&ns_st_ska=68572&ns_st_dska=68572&ns_st_skd=1&ns_st_skt=1690&ns_st_dskt=1690&ns_st_pc=0&ns_st_dpc=0&ns_st_pp=0&ns_st_br=0&ns_st_rt=100&ns_st_ub=0&ns_st_vo=100&ns_st_ws=norm&ns_st_ki=1200000&ns_st_pl=Onda%20Madrid%20en%20directo&ns_st_pr=Onda%20Madrid%20en%20directo&ns_st_sn=*null&ns_st_en=*null&ns_st_ep=Onda%20Madrid%20en%20directo&ns_st_ty=video&ns_st_ct=vc00&ns_st_cs=0x0&ns_st_st=*null&ns_st_pu=*null&ns_st_cu=https%3A%2F%2Ftvradiohls2-live-hls.secure2.footprint.net%2Fegress%2Fchandler%2Ftelemadrid%2Ftvradio_1%2Findex.m3u8&c3=*null&c4=*null&c6=*null&c7=https%3A%2F%2Fwww.telemadrid.es%2Femision-en-directo-ondamadrid%2F&c8=Emisi%C3%B3n%20en%20Directo%20-%20Onda%20Madrid&c9=https%3A%2F%2Fwww.telemadrid.es%2Fprogramas%2Fmadrid-directo%2F
 
 #EXTINF:-1, ES, Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?&test
@@ -563,9 +603,6 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1, NEWS, Telesur HD - Venezuela
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
-
-#EXTINF:-1, NEWS, Telesur HD - Venezuela
-https://cdnesmain.telesur.ultrabase.net/mbliveMain/audio/chunklist.m3u8
 
 #EXTINF:-1, NEWS, Hispan TV - Irán
 https://live1.presstv.ir/live/hispan_360p/index.m3u8
@@ -655,31 +692,16 @@ https://streannlive-lh.akamaihd.net/i/retrotv_1@19771/index_1_av-b.m3u8?sd=10&se
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/b1b273c853364b69b96eccb55a550536/chunklist_b4628000.m3u8?p=79&s=1639539781&e=1639539901&h=efa57fb8796a96f6393f4ab09c2b6137
 
 #EXTINF:-1, TRAVEL BU, Travel TV, Bulgaría
-http://31.13.223.104:1935/travel/travel.stream/playlist.m3u8
+https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 
-#EXTINF:-1, TRAVEL BU, Travel TV, Bulgaría
-http://31.13.223.104:1935/travel/travel.stream/chunklist_w168514330.m3u8
-
-#EXTINF:-1, TRAVEL MX, México Travel Channel
-https://www.dailymotion.com/cdn/live/video/x7xyu4v.m3u8?sec=IhDonKj8HIg_qe87phuJsiI4o1NMCyFWNGV1Ws6VWcOh8_0SQfxkbxPUOrmT_gmJdGszq44-ffvVYVV4UAQPRA
-
-#EXTINF:-1, TRAVEL MX, México Travel Channel
-https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmic1sYx-2af4GP8vn5v3_ww)/dm/3/x7xyu4v/s/live-0.m3u8
+#EXTINF:-1, TRAVEL BU, Travel TV 2, Bulgaría
+https://streamer103.neterra.tv/travel/travel_SD.m3u8
 
 #EXTINF:-1, TRAVEL MX, México Travel Channel
 https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmic1sYx-2af4GP8vn5v3_ww)/dm/3/x7xyu4v/s/live-1.m3u8
 
 #EXTINF:-1, TRAVEL MX, México Travel Channel
 https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmic1sYx-2af4GP8vn5v3_ww)/dm/3/x7xyu4v/s/live-2.m3u8
-
-#EXTINF:-1, TRAVEL MX, México Travel Channel
-https://dmxleo.dailymotion.com/cdn/manifest/video/xe2kwt.m3u8?auth=1610152965-2562-zrq84qo6-d9eb5e6a4eb11d7c1a3e357c6d02edd8Ezrq84qo6&bs=1&cookie_sync_ab_gk=1&reader_gdpr_flag=0&reader_gdpr_consent=&gdpr_binary_consent=opt-out&gdpr_comes_from_infopack=0&reader_us_privacy=1---
-
-#EXTINF:-1, TRAVEL MX, México Travel Channel
-https://public-prod-dspcookiematching.dmxleo.com/dmx?target=https%3A%2F%2Fdmxleo.dailymotion.com/cdn/manifest/video/xe2kwt.m3u8%3Fauth%3Dx%26cs%3Ddmx_[CSDATA]
-
-#EXTINF:-1, TRAVEL MX, México Travel Channel
-https://dmxleo.dailymotion.com/cdn/manifest/video/xe2kwt.m3u8?auth=x&cs=dmx_Igx22g0Lf5vl6G0oTcV5UD14z9M9sNEYxTAXpTTwryu4B5MVVGKPZvh3A7cv0TpDiIY8ilYUFBpwF1cv_8hlmbegxDUjgsVFN15g8KG9fu8
 
 
 
