@@ -5,12 +5,6 @@
 #EXTINF:-1, SV, TV CRET, SM
 https://radiocret.net:8082/hls/tvcret.m3u8
 
-#EXTINF:-1, SV, TCS HD
-https://secure-video.tcsgo.com/tcshd/index720p30360p30_20200822T210827.m3u8?_=14
-
-#EXTINF:-1, SV, TCS HD
-https://secure-video.tcsgo.com/tcshd/index720p30360p30_20200822T210827.m3u8?_=14
-
 #EXTINF:-1, SV, Canal 8 - Agape TV
 https://usher.ttvnw.net/api/channel/hls/agapetv8.m3u8?allow_source=true&fast_bread=true&p=3370856&play_session_id=fc4a2a3933b91b7ca67c32598b4206d5&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=16075f059887f75fdbb901d131fce5054f53fd00&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22agapetv8%22%2C%22channel_id%22%3A767084046%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22e8f126f93df9c19c%22%2C%22expires%22%3A1650736135%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.87.162.29%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.9.0
 
@@ -26,25 +20,25 @@ https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w1806640140_b
 #EXTINF:-1, SV, Canal 10
 https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w1027034814_b478000_sleng.m3u8
 
-#EXTINF:-1, SV, Canal 11
+#EXTINF:-1, SV, TuTV Canal 11
 hhttps://algochivo.com:1936/canal11/canal11/chunks.m3u8?nimblesessionid=7632333
 
-#EXTINF:-1, SV, Canal 12
+#EXTINF:-1, SV, RSM Canal 12
 https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2Mzc5MDg3LCJzZXNzaW9uIjoiMTkwLjg3LjE2Mi40NCIsIndoaXRlbGlzdCI6WyIxOTAuODcuMTYyLjQ0Il19LCJzaWduYXR1cmUiOiJmYjFmMzg2M2I0NjMxNDA0ZTI0OWY2N2MxNTI3MTY1YTJlNjEzNTY4In0=
 
-#EXTINF:-1, SV, Canal 12
+#EXTINF:-1, SV, RSM Canal 12
 https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/chunklist_b200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2Mzc5MDg3LCJzZXNzaW9uIjoiMTkwLjg3LjE2Mi40NCIsIndoaXRlbGlzdCI6WyIxOTAuODcuMTYyLjQ0Il19LCJzaWduYXR1cmUiOiJmYjFmMzg2M2I0NjMxNDA0ZTI0OWY2N2MxNTI3MTY1YTJlNjEzNTY4In0%3D
 
-#EXTINF:-1, SV, Canal 12
+#EXTINF:-1, SV, RSM Canal 12
 https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/chunklist_b512000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2Mzc5MDg3LCJzZXNzaW9uIjoiMTkwLjg3LjE2Mi40NCIsIndoaXRlbGlzdCI6WyIxOTAuODcuMTYyLjQ0Il19LCJzaWduYXR1cmUiOiJmYjFmMzg2M2I0NjMxNDA0ZTI0OWY2N2MxNTI3MTY1YTJlNjEzNTY4In0%3D
 
 #EXTINF:-1, SV, TRV
 https://2nbyj587d53k-hls-live.5centscdn.com/13/9709f63f970338d12cf00458eeeaf24c.sdp/chunks.m3u8
 
-#EXTINF:-1, SV, TVO Televisión Oriental
+#EXTINF:-1, SV, TVO Canal 23 Televisión Oriental
 https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/chunklist_w414170083_b428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIyIDQ6NTg6MTggUE0maGFzaF92YWx1ZT1JZFQ5aHhqRVJoSVJhT1o0anBLRVFBPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
 
-#EXTINF:-1, SV, TVM Televisión Migueleña
+#EXTINF:-1, SV, TVM Televisión Migueleña Canal 25
 http://ispmanager.flynetwifi.com:1935/tvm/tvm.stream/playlist.m3u8
 
 #EXTINF:-1, SV, Wow TV
