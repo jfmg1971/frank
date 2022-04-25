@@ -6,7 +6,10 @@
 https://radiocret.net:8082/hls/tvcret.m3u8
 
 #EXTINF:-1, SV, Canal 8 - Agape TV
-https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/Cv0EEgQ1N9ZWT2g1nBw_dxp-n34LRrzCjTZdkBvYi9FwtE9yHnIbDZ8Jeu0UIWRk8Kvc7Qu-yFaFclNaOTJKmEL5i-HZ7zUKOGpRm95llhSP0UMLnGxK4glGw1cT6wl9PFHM6Zv4_drPEcAhEchygVePNkhu736n5_-Z5DbsFvhEBac5b_Ya2CXXntAGxHYkJaCAb0hk_PfffDcAUs9qF9jAVHYWNU6hJMeP-C4w79zDwzBHIG77VXoWTXN1TV3eTs6bLk-vZe71NPW_vtd9vaHOMn65m9SN2U3btk2u9C_OYJzKssftSsRopqI6sgmPM2sQFG8-N_fJF2ADvCSArXEloOFAb8NmJHJrcBcbBGQB9LFyHlxuSf-4dSkv7IeF5EbdHu7XwVyvIVdjJfxRHWjA72Ui6BsYSOayh476wf1KaVv2Z69ZfbFrBdNtNOMm46cI23o2sPVHv3j1Qe-EdCE3G6N0XZUxpv6B9vrLYCuLmrNaDvqSEYxwR7ZsQAQnqYcXQ1YB-a2hAZ8vGwHP7KHhtM9puEDlUPxcxMFaLnDUhX9JM8QkJrxBedNhlnrLUb3qXzvD0cbi59g9IpI4z4vpHP4sSIR5MrxrQBVHGONYPRalNxonX4tVbpCvsTs-LM__eGHyNOtSPeU-2_PrLN8FJOpwsj7UGFcYAIIPLYK_Q9xVufRwzXc7Cto_vVPtizD_WyIbvn_TSFPB25KyWOGiLCqXMooPd2R2xv3UUlCQtzzy-KX_3kKA1MsvWyNqoyvnD5AxCu5BTa9BOhwV0GqhCcw1CkYaHlGdolPb2NB39Dn1KOnrJW5UIYrmCMUMLaQ3089OEVBjn9L_eS4iVxoMPJmUjesajyFk6YxkIAEqCWV1LXdlc3QtMjDGAw.m3u8
+https://video-weaver.iad03.hls.ttvnw.net/v1/playlist/CoAFEIwKojQiFpd9qTGIg2ThQxJaKOrcmMsDbf1II63dyTdcpkA2_yNftMQgiAVBg0KQAYAMuj3hVukrheW5g6bMUaSDiHL_z1PzjEvpCIktx_IjQdXPf_JpS102Mg3m9jBd8QVT1hQ0feEypRP7ufmajwlCgZQ8XBPLW0OVsf4lrv4029TbJtzje3ZWJrPGZAEtEV-9x8CJ4vD6bwdAnc0RMiXwbsdFnoRhYJ0Zs3t4SEeuiVk8J8XWEyGCDKtmfJ4Llwt3uHR_1HcYr1XoORy82fof9D1Gy5uBgnrtLit3o5i-CJOEp4vka7aa_1f-eVrmlFneNHqz2YIDvCzqxGrhfMIwmeHo2eZQqN_6RhAtGzY4yhXPIbmA3Ps-l8HpICmiA1yiXbIJWyK1kecBvKKVRbqXMG7DW--GCHiaZppgocGKmK0IFI5cdFsdO7gQrGM9SASTvYGgyO1pUPTCunq4AVyUzPtCiIa9BvdMD8H5MS30DM7Cw11cgh4OHMrMcmcB1pew2m-HEGk-l97KUREfYphOEfCvhRn_dRmIx9i7LRiEd24U0LtBQPPsEGJupp-t-GSb4INRNor-xXlSQMmYm4IzrcYOjkHaPNt3_0jJZV2Asi6C3jnzFzNqkDHK909Iet9wEqXIQYck60mXJKcOnDGhSJbV-3R-sZzPtUXNyxknRsKyGrRbBKPFU0uuobAYgOFT44umK8ib7yORr1wiO8x6iCG7Gz2KsJnekc2O-Al3PY7OPmwWDeovpDwuVEmQ8XKfx5SIOvq_UCvCnZnGMa9x2N3-eSFLsdw8l2cP4okrrXm0kfRAeO9aJ9lhwtJCLCaEI8jphZbMf6s-7UjoLhoMeIK4IQgYVh4NSRrqIAEqCWV1LXdlc3QtMjDIAw.m3u8
+
+#EXTINF:-1, SV, Canal 8 - Agape TV
+https://usher.ttvnw.net/api/channel/hls/agapetv8.m3u8?allow_source=true&fast_bread=true&p=8255531&play_session_id=c64674a4d255afe069e0174992b0525a&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=454eccf8c516d1719e66901314a788cb31b253f3&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22agapetv8%22%2C%22channel_id%22%3A767084046%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22e8f126f93df9c19c%22%2C%22expires%22%3A1650851988%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.87.162.119%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.9.0
 
 #EXTINF:-1, SV, Canal 10
 https://5ca39be538307.streamlock.net/tves/smil:tves.smil/playlist.m3u8?DVR
@@ -18,7 +21,10 @@ https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w1806640140_b
 https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w1027034814_b478000_sleng.m3u8
 
 #EXTINF:-1, SV, TuTV Canal 11
-https://algochivo.com:1936/canal11/canal11/chunks.m3u8?nimblesessionid=7710915
+https://algochivo.com:1936/canal11/canal11/playlist.m3u8
+
+#EXTINF:-1, SV, TuTV Canal 11
+https://algochivo.com:1936/canal11/canal11/chunks.m3u8?nimblesessionid=7720881
 
 #EXTINF:-1, SV, RSM Canal 12
 https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2Mzc5MDg3LCJzZXNzaW9uIjoiMTkwLjg3LjE2Mi40NCIsIndoaXRlbGlzdCI6WyIxOTAuODcuMTYyLjQ0Il19LCJzaWduYXR1cmUiOiJmYjFmMzg2M2I0NjMxNDA0ZTI0OWY2N2MxNTI3MTY1YTJlNjEzNTY4In0=
@@ -302,6 +308,9 @@ https://videostream.shockmedia.com.ar:1936/cl3cable/cl3cable/playlist.m3u8
 
 #EXTINF:-1, AR, Cable Visión
 https://videostream.shockmedia.com.ar:1936/cl3cable/cl3cable/chunklist_w122512403.m3u8
+
+#EXTINF:-1, AR, Canal 9 Litorial
+https://stream.arcast.live/ahora/ahora/chunklist_w114522559.m3u8
 
 
 
