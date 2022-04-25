@@ -6,9 +6,6 @@
 https://radiocret.net:8082/hls/tvcret.m3u8
 
 #EXTINF:-1, SV, Canal 8 - Agape TV
-https://usher.ttvnw.net/api/channel/hls/agapetv8.m3u8?allow_source=true&fast_bread=true&p=3370856&play_session_id=fc4a2a3933b91b7ca67c32598b4206d5&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=16075f059887f75fdbb901d131fce5054f53fd00&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22agapetv8%22%2C%22channel_id%22%3A767084046%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22e8f126f93df9c19c%22%2C%22expires%22%3A1650736135%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22embed%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.87.162.29%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.9.0
-
-#EXTINF:-1, SV, Canal 8 - Agape TV
 https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/Cv0EEgQ1N9ZWT2g1nBw_dxp-n34LRrzCjTZdkBvYi9FwtE9yHnIbDZ8Jeu0UIWRk8Kvc7Qu-yFaFclNaOTJKmEL5i-HZ7zUKOGpRm95llhSP0UMLnGxK4glGw1cT6wl9PFHM6Zv4_drPEcAhEchygVePNkhu736n5_-Z5DbsFvhEBac5b_Ya2CXXntAGxHYkJaCAb0hk_PfffDcAUs9qF9jAVHYWNU6hJMeP-C4w79zDwzBHIG77VXoWTXN1TV3eTs6bLk-vZe71NPW_vtd9vaHOMn65m9SN2U3btk2u9C_OYJzKssftSsRopqI6sgmPM2sQFG8-N_fJF2ADvCSArXEloOFAb8NmJHJrcBcbBGQB9LFyHlxuSf-4dSkv7IeF5EbdHu7XwVyvIVdjJfxRHWjA72Ui6BsYSOayh476wf1KaVv2Z69ZfbFrBdNtNOMm46cI23o2sPVHv3j1Qe-EdCE3G6N0XZUxpv6B9vrLYCuLmrNaDvqSEYxwR7ZsQAQnqYcXQ1YB-a2hAZ8vGwHP7KHhtM9puEDlUPxcxMFaLnDUhX9JM8QkJrxBedNhlnrLUb3qXzvD0cbi59g9IpI4z4vpHP4sSIR5MrxrQBVHGONYPRalNxonX4tVbpCvsTs-LM__eGHyNOtSPeU-2_PrLN8FJOpwsj7UGFcYAIIPLYK_Q9xVufRwzXc7Cto_vVPtizD_WyIbvn_TSFPB25KyWOGiLCqXMooPd2R2xv3UUlCQtzzy-KX_3kKA1MsvWyNqoyvnD5AxCu5BTa9BOhwV0GqhCcw1CkYaHlGdolPb2NB39Dn1KOnrJW5UIYrmCMUMLaQ3089OEVBjn9L_eS4iVxoMPJmUjesajyFk6YxkIAEqCWV1LXdlc3QtMjDGAw.m3u8
 
 #EXTINF:-1, SV, Canal 10
@@ -21,7 +18,7 @@ https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w1806640140_b
 https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w1027034814_b478000_sleng.m3u8
 
 #EXTINF:-1, SV, TuTV Canal 11
-hhttps://algochivo.com:1936/canal11/canal11/chunks.m3u8?nimblesessionid=7632333
+https://algochivo.com:1936/canal11/canal11/chunks.m3u8?nimblesessionid=7710915
 
 #EXTINF:-1, SV, RSM Canal 12
 https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2Mzc5MDg3LCJzZXNzaW9uIjoiMTkwLjg3LjE2Mi40NCIsIndoaXRlbGlzdCI6WyIxOTAuODcuMTYyLjQ0Il19LCJzaWduYXR1cmUiOiJmYjFmMzg2M2I0NjMxNDA0ZTI0OWY2N2MxNTI3MTY1YTJlNjEzNTY4In0=
@@ -41,6 +38,9 @@ https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/chunklist_w414170083_b428
 #EXTINF:-1, SV, TVM Televisión Migueleña Canal 25
 http://ispmanager.flynetwifi.com:1935/tvm/tvm.stream/playlist.m3u8
 
+#EXTINF:-1, SV, Televisión Legislativa
+https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
+
 #EXTINF:-1, SV, Wow TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
@@ -56,9 +56,6 @@ https://rtmp.info/soltv/envivo/chunks.m3u8?nimblesessionid=64243632
 #EXTINF:-1, SV, Canal 15 Usulután
 https://algochivo.com:1936/canal15/canal15/playlist.m3u8
 
-#EXTINF:-1, SV, Canal 15 Usulután
-https://algochivo.com:1936/canal15/canal15/chunks.m3u8?nimblesessionid=7633908
-
 #EXTINF:-1, SV, Taber TV
 https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/chunklist_w1505259703_b978000_DVR_sleng.m3u8
 
@@ -70,9 +67,6 @@ https://5dcabf026b188.streamlock.net/orbitatv/livestream/playlist.m3u8
 
 #EXTINF:-1, SV, Orbita TV - Canal 25
 https://5dcabf026b188.streamlock.net/orbitatv/livestream/chunklist_w1235835441.m3u8
-
-#EXTINF:-1, SV, Orbita TV - Canal 25
-https://video.twimg.com/ext_tw_video/1517875777479532545/pu/pl/NFQeIghJMiuCWwDc.m3u8?tag=12&container=fmp4
 
 #EXTINF:-1, SV, Elim TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/chunklist_b4628000.m3u8?p=79&s=1639533994&e=1639534114&h=16e6057232d8faed7ccd114e806b3582
@@ -112,10 +106,10 @@ http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w20920171
 http://stream.grupoabchn.com:1935/SERCANOHD/SERCANOLive.smil/chunklist_w2092017170_b698000.m3u8
 
 #EXTINF:-1, HN, TD TV
-https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjEgOTo1OToxNyBQTSZoYXNoX3ZhbHVlPUE5VGdCUEQxYlNYSFBhVjBHN25icFE9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZpZD0=
+https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDIyIDExOjEwOjM4IFBNJmhhc2hfdmFsdWU9QzAyV3dvc3BQSlZqeVFzblBpQlRoUT09JnZhbGlkbWludXRlcz0zNjAwJmlkPQ==
 
 #EXTINF:-1, HN, TD TV
-https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/chunklist_w601931867_b478000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS82LzIwMjEgOTo1OToxNyBQTSZoYXNoX3ZhbHVlPUE5VGdCUEQxYlNYSFBhVjBHN25icFE9PSZ2YWxpZG1pbnV0ZXM9MzYwMCZpZD0%3D
+https://5fe2654d6127d.streamlock.net/tododeportesplus/smil:tododeportesplus.smil/chunklist_w207870912_b978000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNC8yMDIyIDExOjEwOjM4IFBNJmhhc2hfdmFsdWU9QzAyV3dvc3BQSlZqeVFzblBpQlRoUT09JnZhbGlkbWludXRlcz0zNjAwJmlkPQ%3D%3D
 
 #EXTINF:-1, HN, TEN TV
 http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/chunklist_w346930306_b698000.m3u8
@@ -173,7 +167,10 @@ https://stream-04.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqvT0f0LFiKs5ektz-7
 #EXTINF:-1, CR, TV de COSTA RICA
 
 #EXTINF:-1, CR, Telesistema
-http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w37187640.m3u8
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
+
+#EXTINF:-1, CR, Telesistema
+https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1071207557.m3u8
 
 #EXTINF:-1, CR, Telered
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
@@ -203,19 +200,16 @@ https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w269690273.m3u8
 #EXTINF:-1, MX, TV de MEXICO
 
 #EXTINF:-1, MX, ADN40
-https://dai.google.com/linear/hls/pa/event/XZLLJIhJRNqz33DGp6NdkA/stream/1dc8a216-e22b-416d-9002-b564cd15cf74:MRN2/variant/347dd514e4c301d219227132972fd749/bandwidth/673200.m3u8
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?uid=FBLv745HPz6antYhvgW0r0RgLATVRnEV&sid=n5wxQUHpdktTfxnm5kswBUS550jpalfm&pid=LTiUuXePgoYqMqSGF0AsMsHhfDhPNDvw&an=screen&at=web-app&av=v5.2.237&ref=https%3A%2F%2Flive.adn40.mx%2F&res=929x532&without_cookies=false&listenerid=&dnt=true
 
 #EXTINF:-1, MX, Canal 11, México
-https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/playlist.m3u8
+https://d24sa4vr9gvjv.cloudfront.net/index.m3u8
 
 #EXTINF:-1, MX, Canal 11, México
-https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/chunklist_w702039277_b1300000_slesp.m3u8
+https://d24sa4vr9gvjv.cloudfront.net/index_480.m3u8
 
-#EXTINF:-1, MX, Canal 11, México
-https://live2.canaloncelive.tv/livepkgr2/smil:internacional.smil/chunklist_w702039277_b1000000_slesp.m3u8
-
-#EXTINF:-1, MX
-
+#EXTINF:-1, MX, TV UNAM
+https://5ca3e84a76d30.streamlock.net/tvunam/videotvunam/chunklist_w1198838669_DVR.m3u8
 
 #EXTINF:-1, MX
 
@@ -324,8 +318,16 @@ https://5f2c1b0d880e5.streamlock.net/boliviatv/videoboliviatv/chunklist_w5082243
 https://5f2c1b0d880e5.streamlock.net/boliviatv/videoboliviatv/chunklist_w187485011.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTIvMTUvMjAyMSAyOjQ3OjIwIEFNJmhhc2hfdmFsdWU9eEhFa1hzQTE4a05yUW9PeHhTQjB2dz09JnZhbGlkbWludXRlcz01MCZpZD0%3D
 
 #EXTINF:-1, BO, Bolivisión 
-https://bo-bolivision-lapaz-live.ned.media/bolivision/smil:lapaz.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjM5NjIzMDkzLCJzZXNzaW9uIjoiMTkwLjg3LjE2Mi45NSIsIndoaXRlbGlzdCI6WyIxOTAuODcuMTYyLjk1Il19LCJzaWduYXR1cmUiOiI4NjZjZTZmNjIyM2U1ZWUyY2IxNDE0MzViYmY2NjllZWZlNDQyZjA0In0%3D
+https://d2byzrnrdb259r.cloudfront.net/hls/live.m3u8
 
+#EXTINF:-1, BO, Bolivisión
+https://d2byzrnrdb259r.cloudfront.net/hls/live_480p30.m3u8
+
+#EXTINF:-1, BO, Pat Digital
+https://master.tucableip.com//pat/playlist.m3u8
+
+#EXTINF:-1, BO, Pat Digital
+https://master.tucableip.com//pat/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, BO, 
 
@@ -370,6 +372,9 @@ https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live
 
 #EXTINF:-1, CO, TV Agro
 http://179.1.7.198:1935/live/TVAgroHD.stream_160p/chunklist_w172954079.m3u8
+
+#EXTINF:-1, CO, TV Agro
+http://179.1.7.198:1935/live/TVAgroHD.stream_160p/playlist.m3u8
 
 #EXTINF:-1, CO, Señal Colombia - RTVC
 https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
@@ -498,12 +503,6 @@ https://stmv.panel.mivideo.pro/infinitatvpremium/infinitatvpremium/chunklist_w20
 https://rtvelivestreamv3.akamaized.net/rtvesec/la1/la1_main_360.m3u8
 
 #EXTINF:-1, ES, TVE 2
-https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main_360.m3u8
-
-#EXTINF:-1, ES, TVE 2
-https://rtvelivestreamv3.akamaized.net/rtvesec/la2/la2_main.m3u8?hdnts=exp=1650734531~hmac=d4a597d1b3b2bb728cae6dc10eec2f316326fafecf3e481495bdfda9af7388ee
-
-#EXTINF:-1, ES, TVE 2
 https://ztnr.rtve.es/ztnr/1688885.m3u8
 
 #EXTINF:-1, ES, RTVE 24h
@@ -531,13 +530,13 @@ https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_720.m3u8
 https://rtvelivestreamv3.akamaized.net/tdp/tdp_main_1080.m3u8
 
 #EXTINF:-1, ES, Telemadrid
-https://tvradiohls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/tvradio_1/index.m3u8
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/index.m3u8
 
 #EXTINF:-1, ES, Telemadrid
-https://tvradiohls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/tvradio_1/bitrate_2.m3u8
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_2.m3u8
 
 #EXTINF:-1, ES, Telemadrid
-https://sb.scorecardresearch.com/p?c1=2&c2=7514083&ns_ap_pn=js&ns_ap_pfm=html&ns_type=hidden&ns_st_sv=6.1.0.170130&ns_st_pv=1.5.1.190515&ns_st_smv=5.8&ns_st_it=c&ns_st_id=1650734533319&ns_st_ec=1&ns_st_sp=1&ns_st_sc=1&ns_st_psq=1&ns_st_asq=0&ns_st_sq=1&ns_st_ppc=1&ns_st_apc=1&ns_st_spc=1&ns_st_cn=1&ns_st_ev=play&ns_st_po=68572&ns_st_cl=0&ns_st_el=0&ns_st_pb=1&ns_st_mp=brightcove&ns_st_mv=6.54.0&ns_st_pn=1&ns_st_tp=0&ns_st_ci=5567379805001&ns_st_pt=0&ns_st_dpt=0&ns_st_ipt=0&ns_st_et=0&ns_st_det=0&ns_st_upc=0&ns_st_dupc=0&ns_st_iupc=0&ns_st_upa=0&ns_st_dupa=0&ns_st_iupa=0&ns_st_lpc=0&ns_st_dlpc=0&ns_st_lpa=0&ns_st_dlpa=0&ns_st_pa=0&ns_ts=1650734537970&ns_st_bc=0&ns_st_dbc=0&ns_st_bt=0&ns_st_dbt=0&ns_st_bp=0&ns_st_lt=4651&ns_st_skc=1&ns_st_dskc=1&ns_st_ska=68572&ns_st_dska=68572&ns_st_skd=1&ns_st_skt=1690&ns_st_dskt=1690&ns_st_pc=0&ns_st_dpc=0&ns_st_pp=0&ns_st_br=0&ns_st_rt=100&ns_st_ub=0&ns_st_vo=100&ns_st_ws=norm&ns_st_ki=1200000&ns_st_pl=Onda%20Madrid%20en%20directo&ns_st_pr=Onda%20Madrid%20en%20directo&ns_st_sn=*null&ns_st_en=*null&ns_st_ep=Onda%20Madrid%20en%20directo&ns_st_ty=video&ns_st_ct=vc00&ns_st_cs=0x0&ns_st_st=*null&ns_st_pu=*null&ns_st_cu=https%3A%2F%2Ftvradiohls2-live-hls.secure2.footprint.net%2Fegress%2Fchandler%2Ftelemadrid%2Ftvradio_1%2Findex.m3u8&c3=*null&c4=*null&c6=*null&c7=https%3A%2F%2Fwww.telemadrid.es%2Femision-en-directo-ondamadrid%2F&c8=Emisi%C3%B3n%20en%20Directo%20-%20Onda%20Madrid&c9=https%3A%2F%2Fwww.telemadrid.es%2Fprogramas%2Fmadrid-directo%2F
+https://telemadridhls2-live-hls.secure2.footprint.net/egress/chandler/telemadrid/telemadrid_1/bitrate_3.m3u8
 
 #EXTINF:-1, ES, Canal Extremadura
 https://cdnlive.shooowit.net/canalextremaduralive/smil:channel1DVR.smil/playlist.m3u8?&test
@@ -565,12 +564,6 @@ https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/
 
 #EXTINF:-1, ES, Lancelot 2
 https://5c0956165db0b.streamlock.net:8090/directo/_definst_/lancelot.television/chunklist_w1553000842.m3u8
-
-#EXTINF:-1, SPORT, Real Madrid TV
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/master.m3u8
-
-#EXTINF:-1, SPORT, Real Madrid TV
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1, ES
 
@@ -693,9 +686,5 @@ https://streamer103.neterra.tv/travel/travel_SD.m3u8
 
 #EXTINF:-1, TRAVEL MX, México Travel Channel
 https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmic1sYx-2af4GP8vn5v3_ww)/dm/3/x7xyu4v/s/live-1.m3u8
-
-#EXTINF:-1, TRAVEL MX, México Travel Channel
-https://stream-04.nyc.dailymotion.com/sec(ekpi6JmRB5KslkTtNqtBmic1sYx-2af4GP8vn5v3_ww)/dm/3/x7xyu4v/s/live-2.m3u8
-
 
 
