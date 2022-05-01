@@ -21,9 +21,6 @@ https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w1806640140_b
 https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w1027034814_b478000_sleng.m3u8
 
 #EXTINF:-1, SV, TuTV Canal 11
-https://algochivo.com:1936/canal11/canal11/playlist.m3u8
-
-#EXTINF:-1, SV, TuTV Canal 11
 https://algochivo.com:1936/canal11/canal11/chunks.m3u8?nimblesessionid=7720881
 
 #EXTINF:-1, SV, RSM Canal 12
@@ -39,7 +36,7 @@ https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/chunklist_b5
 https://2nbyj587d53k-hls-live.5centscdn.com/13/9709f63f970338d12cf00458eeeaf24c.sdp/chunks.m3u8
 
 #EXTINF:-1, SV, TVO Canal 23 Televisión Oriental
-https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/chunklist_w414170083_b428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIyIDQ6NTg6MTggUE0maGFzaF92YWx1ZT1JZFQ5aHhqRVJoSVJhT1o0anBLRVFBPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
+https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/chunklist_w1464979178_b1428000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xLzIwMjIgMTI6MTQ6MDMgQU0maGFzaF92YWx1ZT1oYWFqeTFqL0Z1Si9qWUhwN3FaeGt3PT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
 
 #EXTINF:-1, SV, TVM Televisión Migueleña Canal 25
 http://ispmanager.flynetwifi.com:1935/tvm/tvm.stream/playlist.m3u8
