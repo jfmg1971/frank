@@ -32,6 +32,9 @@ https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/chunklist_b2
 #EXTINF:-1, SV, RSM Canal 12
 https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/chunklist_b512000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2Mzc5MDg3LCJzZXNzaW9uIjoiMTkwLjg3LjE2Mi40NCIsIndoaXRlbGlzdCI6WyIxOTAuODcuMTYyLjQ0Il19LCJzaWduYXR1cmUiOiJmYjFmMzg2M2I0NjMxNDA0ZTI0OWY2N2MxNTI3MTY1YTJlNjEzNTY4In0%3D
 
+#EXTINF:-1, SV, Megavisión Canal 21
+https://uvodscp-lh.akamaihd.net/i/mgvc21rtmp_1@460432/master.m3u8?hdnts=exp=1651375588~acl=/*~hmac=ea980edc83e54c62dd7b0ce144956cbdf46058a2b01a39bfb6bd65f6a8fa5f8e
+
 #EXTINF:-1, SV, TRV
 https://2nbyj587d53k-hls-live.5centscdn.com/13/9709f63f970338d12cf00458eeeaf24c.sdp/chunks.m3u8
 
