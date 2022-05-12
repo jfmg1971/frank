@@ -44,9 +44,6 @@ https://rtmp.info/soltv/envivo/playlist.m3u8
 #EXTINF:-1, SV, Sol TV
 https://rtmp.info/soltv/envivo/chunks.m3u8?nimblesessionid=64243632
 
-#EXTINF:-1, SV, Canal 15 Usulután
-https://algochivo.com:1936/canal15/canal15/playlist.m3u8
-
 #EXTINF:-1, SV, Taber TV
 https://5ca9af4645e15.streamlock.net/tabertv/smil:tabertv.smil/chunklist_w1505259703_b978000_DVR_sleng.m3u8
 
@@ -64,13 +61,6 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/c
 
 #EXTINF:-1, SV, Tele 1
 http://streamingcws40.com:1935/canaluno/videocanaluno/playlist.m3u8
-
-#EXTINF:-1, SV, Canal 33
-https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/playlist.m3u8?DVR
-
-#EXTINF:-1, SV, Canal 33
-https://5ca9af4645e15.streamlock.net/canal33/smil:canal33.smil/chunklist_w383501601_b1128000_DVR_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMS8yMDIyIDY6NTc6NDIgUE0maGFzaF92YWx1ZT05L3lUUmlleG5TSWRpU1BWMDBvMHN3PT0mdmFsaWRtaW51dGVzPTEwJmlkPQ%3D%3D
-
 
 #EXTINF:-1, SV, 
 
