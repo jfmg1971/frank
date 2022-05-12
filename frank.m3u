@@ -110,20 +110,14 @@ https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8?_=2
 #EXTINF:-1, NI, Nicavisión, Canal 12
 https://5ca9af4645e15.streamlock.net/canal12/videocanal12/chunklist_w2070891519.m3u8?_=2
 
-#EXTINF:-1, NI, Canal 4
-https://www.dailymotion.com/cdn/live/video/x7rwv8c.m3u8?sec=2shwlSVpZ0rr-Ed7k9PwgzFOZdqC_5tDeG-AZTyyLP-Ywggt7X5EKT8W5sxbJn6t6X2E74iq2OlrPe_ScblHFA
+#EXTINF:-1, NI, Canal 10
+https://ni-canal10-canal10-live.ned.media/canal10/smil:canal10.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUyNDY2OTU5LCJzZXNzaW9uIjoiMTkwLjUzLjMwLjIxMCIsIndoaXRlbGlzdCI6WyIxOTAuNTMuMzAuMjEwIl19LCJzaWduYXR1cmUiOiIxZDVhMDIwODA0MTAwYjk2OTdkNDkxNTk5MDc1NGZmNzgzMjVhN2VjIn0=
 
-#EXTINF:-1, NI, Canal 4
-https://stream-03.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj6l5Xa89OYtILkdlii8eVO8)/dm/3/x7rwv8c/s/live-0.m3u8
+#EXTINF:-1, NI, Canal 10
+https://ni-canal10-canal10-live.ned.media/canal10/smil:canal10.smil/chunklist_b200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUyNDY2OTU5LCJzZXNzaW9uIjoiMTkwLjUzLjMwLjIxMCIsIndoaXRlbGlzdCI6WyIxOTAuNTMuMzAuMjEwIl19LCJzaWduYXR1cmUiOiIxZDVhMDIwODA0MTAwYjk2OTdkNDkxNTk5MDc1NGZmNzgzMjVhN2VjIn0%3D
 
-#EXTINF:-1, NI, Canal 4
-https://stream-03.nyc.dailymotion.com/sec(LWxkRxSld-NF2-DYw1tVj6l5Xa89OYtILkdlii8eVO8)/dm/3/x7rwv8c/s/live-1.m3u8
+#EXTINF:-1, NI, 
 
-#EXTINF:-1, NI, Viva Nicaragua, Canal 13
-https://stream-04.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqvT0f0LFiKs5ektz-7Czmf4)/dm/3/x7u200z/s/live-0.m3u8
-
-#EXTINF:-1, NI, Viva Nicaragua, Canal 13
-https://stream-04.nyc.dailymotion.com/sec(M6H1kElr_3TPI3uTZiYJqvT0f0LFiKs5ektz-7Czmf4)/dm/3/x7u200z/s/live-1.m3u8
 
 #EXTINF:-1, NI,
 
@@ -690,9 +684,5 @@ https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
 https://streamer103.neterra.tv/travel/travel_SD.m3u8
 
 #EXTINF:-1, TRAVEL MX, México Travel Channel
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZTHBsgtMCmLiDc2YhmmWqaW5ZEKBCe15wwKfXHsOV-JO)/dm/3/x7v76vf/s/live-0.m3u8#cell=lnyc
-
-#EXTINF:-1, TRAVEL MX, México Travel Channel
-https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZTHBsgtMCmLiDc2YhmmWqaW5ZEKBCe15wwKfXHsOV-JO)/dm/3/x7v76vf/s/live-1.m3u8#cell=lnyc
-
+https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZX0mObX-G2Egbh8Qc9n903VbYcqVmQoLCAtzaUVM_1HL)/dm/3/x7v76vf/s/live-1.m3u8#cell=lnyc
 
