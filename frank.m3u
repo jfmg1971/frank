@@ -243,12 +243,6 @@ https://cda2.alsolnet.com/elrural/live/chunklist_w41596598.m3u8
 #EXTINF:-1, AR, Canal Telemax
 https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1523649287_b1828000_sleng.m3u8
 
-#EXTINF:-1, AR, TV Pública
-https://cntlnk-main-edge-access.secure.footprint.net/b16/ngrp:c7_vivo01_dai_source-20001_all/playlist.m3u8
-
-#EXTINF:-1, AR, TV Pública
-https://cntlnk-main-edge-access.secure.footprint.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_720p.m3u8
-
 #EXTINF:-1, AR, Cable Visión
 https://videostream.shockmedia.com.ar:1936/cl3cable/cl3cable/playlist.m3u8
 
@@ -457,6 +451,7 @@ https://stmv.panel.mivideo.pro/infinitatvpremium/infinitatvpremium/chunklist_w20
 
 
 
+
 #EXTINF:-1, ES, TV de España
 
 #EXTINF:-1, ES, TVE 1
@@ -590,18 +585,6 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:-1, NEWS, Hispan TV - Irán
 https://live1.presstv.ir/live/hispan_360p/index.m3u8
 
-#EXTINF:-1, NEWS, DW en Español - Alemania
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/master.m3u8
-
-#EXTINF:-1, NEWS, DW en Español - Alemania
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1, NEWS, DW en Español
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_3_av-p.m3u8?sd=10&rebase=on
-
-#EXTINF:-1, NEWS, DW en Español - Alemania
-https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:-1, NEWS, NHK - Japón
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
@@ -626,20 +609,6 @@ https://live-hls-web-aje.getaj.net/AJE/05.m3u8
 #EXTINF:-1, NEWS, Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/06.m3u8
 
-#EXTINF:-1, NEWS, Euronews en Español
-https://www.youtube.com/watch?v=L0qPssszfgY
-
-#EXTINF:-1, NEWS, Euronews in English
-https://www.youtube.com/watch?v=KRP1d3JiWPo
-
-#EXTINF:-1, NEWS, France 24 en Español
-https://www.youtube.com/watch?v=fKjynhhrfqU
-
-#EXTINF:-1, NEWS, France 24 in English
-https://www.youtube.com/watch?v=oaugY_Yn6Yw
-
-#EXTINF:-1, NEWS, France 24 en Francés
-https://www.youtube.com/watch?v=bkXn38__Gy0
 
 
 
@@ -669,13 +638,6 @@ https://streannlive-lh.akamaihd.net/i/retrotv_1@19771/index_1_av-b.m3u8?sd=10&se
 
 
 
-#EXTINF:-1, TRAVEL, Canales de Viajes
-
-#EXTINF:-1, TRAVEL, Viajar TV
-https://145vod-adaptive.akamaized.net/exp=1652313449~acl=%2Fe4514759-df42-4196-8fd4-f3ed9a0bd3f0%2F%2A~hmac=9c4bc183d4401149aeb783df84b6d226eb0a066e1f136b3acfdaac24e3ee2251/e4514759-df42-4196-8fd4-f3ed9a0bd3f0/sep/video/0a1005af,518711a8,537aba3d,5f0c1cde,b44faa67/master.m3u8?absolute=1&query_string_ranges=1
-
-#EXTINF:-1, TRAVEL, Viajar TV
-https://24vod-adaptive.akamaized.net/exp=1652312778~acl=%2F3612aaff-e4c2-4401-92cc-9cced50773df%2F%2A~hmac=8d7df2c4101343f91815b3c7c69cf3293f01f4f0f33805b48be654fa0d32b092/3612aaff-e4c2-4401-92cc-9cced50773df/sep/video/25642664,5ec09556,a426f684,a5b5b572,b2608700/master.m3u8?absolute=1&query_string_ranges=1
 
 #EXTINF:-1, TRAVEL BU, Travel TV, Bulgaría
 https://streamer103.neterra.tv/thisisbulgaria/thisisbulgaria_HD.m3u8
