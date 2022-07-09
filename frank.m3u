@@ -6,28 +6,31 @@
 https://radiocret.net:8082/hls/tvcret.m3u8
 
 #EXTINF:-1, SV, Canal 10
-https://5ca39be538307.streamlock.net/tves/smil:tves.smil/playlist.m3u8?DVR
-
-#EXTINF:-1, SV, Canal 10
-https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w1806640140_b478000_sleng.m3u8
-
-#EXTINF:-1, SV, Canal 10
-https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w1027034814_b478000_sleng.m3u8
+https://5ca39be538307.streamlock.net/tves/smil:tves.smil/chunklist_w10894264_b978000_sleng.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjIgMjowODoyNiBBTSZoYXNoX3ZhbHVlPXlFQ1pkZVpLNGRUUnV5Ym9TM3hvVEE9PSZ2YWxpZG1pbnV0ZXM9MTUmaWQ9
 
 #EXTINF:-1, SV, RSM Canal 12
-https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2Mzc5MDg3LCJzZXNzaW9uIjoiMTkwLjg3LjE2Mi40NCIsIndoaXRlbGlzdCI6WyIxOTAuODcuMTYyLjQ0Il19LCJzaWduYXR1cmUiOiJmYjFmMzg2M2I0NjMxNDA0ZTI0OWY2N2MxNTI3MTY1YTJlNjEzNTY4In0=
+https://d3kk75blondskv.cloudfront.net/hls/canal12.m3u8
 
 #EXTINF:-1, SV, RSM Canal 12
-https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/chunklist_b200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2Mzc5MDg3LCJzZXNzaW9uIjoiMTkwLjg3LjE2Mi40NCIsIndoaXRlbGlzdCI6WyIxOTAuODcuMTYyLjQ0Il19LCJzaWduYXR1cmUiOiJmYjFmMzg2M2I0NjMxNDA0ZTI0OWY2N2MxNTI3MTY1YTJlNjEzNTY4In0%3D
+https://d3kk75blondskv.cloudfront.net/hls/canal12_160.m3u8
 
 #EXTINF:-1, SV, RSM Canal 12
-https://sv-canal12-canal12-live.ned.media/canal12/smil:canal12.smil/chunklist_b512000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2Mzc5MDg3LCJzZXNzaW9uIjoiMTkwLjg3LjE2Mi40NCIsIndoaXRlbGlzdCI6WyIxOTAuODcuMTYyLjQ0Il19LCJzaWduYXR1cmUiOiJmYjFmMzg2M2I0NjMxNDA0ZTI0OWY2N2MxNTI3MTY1YTJlNjEzNTY4In0%3D
+https://d3kk75blondskv.cloudfront.net/hls/canal12_220.m3u8
 
 #EXTINF:-1, SV, TRV
-https://2nbyj587d53k-hls-live.5centscdn.com/13/9709f63f970338d12cf00458eeeaf24c.sdp/chunks.m3u8
+https://stream.oursnetworktv.com/latin/encoder44/playlist.m3u8
+
+#EXTINF:-1, SV, TRV
+https://stream.oursnetworktv.com/latin/encoder44/chunklist_w638577627.m3u8
 
 #EXTINF:-1, SV, TVM Televisión Migueleña Canal 25
 http://ispmanager.flynetwifi.com:1935/tvm/tvm.stream/playlist.m3u8
+
+#EXTINF:-1, SV, TVM Televisión Migueleña Canal 25
+https://usher.ttvnw.net/api/channel/hls/tvmelsalvador.m3u8?allow_source=true&fast_bread=true&p=1816733&play_session_id=f4b1935748871453c50e0179a039556c&player_backend=mediaplayer&playlist_include_framerate=true&reassignments_supported=true&sig=a15734b26f162975d3a19c4ca5c8661952052832&supported_codecs=avc1&token=%7B%22adblock%22%3Afalse%2C%22authorization%22%3A%7B%22forbidden%22%3Afalse%2C%22reason%22%3A%22%22%7D%2C%22blackout_enabled%22%3Afalse%2C%22channel%22%3A%22tvmelsalvador%22%2C%22channel_id%22%3A790093635%2C%22chansub%22%3A%7B%22restricted_bitrates%22%3A%5B%5D%2C%22view_until%22%3A1924905600%7D%2C%22ci_gb%22%3Afalse%2C%22geoblock_reason%22%3A%22%22%2C%22device_id%22%3A%22b9efdb2ff610ff2f%22%2C%22expires%22%3A1657334996%2C%22extended_history_allowed%22%3Afalse%2C%22game%22%3A%22%22%2C%22hide_ads%22%3Afalse%2C%22https_required%22%3Atrue%2C%22mature%22%3Afalse%2C%22partner%22%3Afalse%2C%22platform%22%3A%22web%22%2C%22player_type%22%3A%22twitch_everywhere%22%2C%22private%22%3A%7B%22allowed_to_view%22%3Atrue%7D%2C%22privileged%22%3Afalse%2C%22role%22%3A%22%22%2C%22server_ads%22%3Atrue%2C%22show_ads%22%3Atrue%2C%22subscriber%22%3Afalse%2C%22turbo%22%3Afalse%2C%22user_id%22%3Anull%2C%22user_ip%22%3A%22190.87.162.43%22%2C%22version%22%3A2%7D&cdm=wv&player_version=1.11.0
+
+#EXTINF:-1, SV, TVM Televisión Migueleña Canal 25
+https://video-weaver.mia05.hls.ttvnw.net/v1/playlist/Cp0FbBwQpvxvYi7y2X9WtGTHWc4N72Omnotaoc7g_Ok4PNmo6HkKDJUN9VYppZGX5DfV1Z_3IaFjI1i9mp-3ak6Nsjf-QubmwxrexanTpesIDmXZi0m7lXxvGGoHbUn2R9HGV1qPjARhG8cw0QA4Ve6F0jt6jM5lgFXWyXyg9cyj1TqZ_-VBmTGkDSmzqz50yzI5tJvBLsRdUwLuXy2-xGq5XYveILRIMUyApldyAz1xi2kSRqY2IkyrINTdgLTTAOlN6UFblZGOl7Jfgd74kMN5gvW4L2q1kZUQxwXIqZx5rz9uLoZOg8vCdyCegbNBWDqH32WaAnG-eJAEl2u_3WoAujN4PcFDEKZXwLnz-XnlmCmHMmTgWFw66xt6emBrYX5SZMEqwynOFdP_E_wJfgLGsezmQBWTMr32ntS3tDXitBHHYEhKxIUBlCefiQ_SdsmJZ8IWzshRzYEo8-_gLNIGpZO9rNZEIQGeEtejSvkmJSW2ReUtVxZfExiNN18_XHTtbOFwwIlade25gaM_iheC6pRN4dOgeYb6g0Mlh96JdUoMciTWMaO522p_6e3UEtn61dyhjc40EO22Gm2NoXDRd9Wiu5hErvjDIgGDmdPPUhBW8SNgc8_8y0Y9cYcTInZ0ReHCW93psBAIHQY7sKkbqSMeEuZcw0vkLQE8H-Gqr0Gst5lka35n3676E0k3COLH9Us4w-Vqv8zY5zVDCGXsgbF96gFDTvVj0i8PNQSp1HkdNsZuSUkA21ETztu-pKx7HgpkVNxJUorfj0x0sHBqNHHtCNGqlfqL6Q6KBmuR8r6LkbimaK1Tm3Iw3xl-JqfD-HoKpFe82VN9IVvpkAGsowNrnMOW9a29YFC416IySSOM6mypuZ9SNSfhdEq4GgxiATFSx1YjMuAhjiggASoJdXMtZWFzdC0xMMgC.m3u8
 
 #EXTINF:-1, SV, Televisión Legislativa
 https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
@@ -36,7 +39,7 @@ https://streaming.asamblea.gob.sv/hls/plenariahd.m3u8
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 #EXTINF:-1, SV, Wow TV
-https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1493844077_b700000_slen.m3u8
+https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/chunklist_w1553169670_b700000_slen.m3u8
 
 #EXTINF:-1, SV, Sol TV
 https://rtmp.info/soltv/envivo/playlist.m3u8
@@ -59,8 +62,6 @@ https://5dcabf026b188.streamlock.net/orbitatv/livestream/chunklist_w1235835441.m
 #EXTINF:-1, SV, Elim TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/chunklist_b4628000.m3u8?p=79&s=1639533994&e=1639534114&h=16e6057232d8faed7ccd114e806b3582
 
-#EXTINF:-1, SV, Tele 1
-http://streamingcws40.com:1935/canaluno/videocanaluno/playlist.m3u8
 
 #EXTINF:-1, SV, 
 
@@ -105,16 +106,11 @@ https://emisoras.hn:8081/atv/tracks-v1a1/mono.m3u8?_=14
 #EXTINF:-1, CR, TV de NICARAGUA
 
 #EXTINF:-1, NI, Nicavisión, Canal 12
-https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8?_=2
+https://5ca9af4645e15.streamlock.net/canal12/videocanal12/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjIgMjozNDoxMiBBTSZoYXNoX3ZhbHVlPVdzOGdLd1NTejczUmRjUDg0b2I3cEE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9
 
 #EXTINF:-1, NI, Nicavisión, Canal 12
-https://5ca9af4645e15.streamlock.net/canal12/videocanal12/chunklist_w2070891519.m3u8?_=2
+https://5ca9af4645e15.streamlock.net/canal12/videocanal12/chunklist_w720677915.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjIgMjozNDoxMiBBTSZoYXNoX3ZhbHVlPVdzOGdLd1NTejczUmRjUDg0b2I3cEE9PSZ2YWxpZG1pbnV0ZXM9MTAmaWQ9
 
-#EXTINF:-1, NI, Canal 10
-https://ni-canal10-canal10-live.ned.media/canal10/smil:canal10.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUyNDY2OTU5LCJzZXNzaW9uIjoiMTkwLjUzLjMwLjIxMCIsIndoaXRlbGlzdCI6WyIxOTAuNTMuMzAuMjEwIl19LCJzaWduYXR1cmUiOiIxZDVhMDIwODA0MTAwYjk2OTdkNDkxNTk5MDc1NGZmNzgzMjVhN2VjIn0=
-
-#EXTINF:-1, NI, Canal 10
-https://ni-canal10-canal10-live.ned.media/canal10/smil:canal10.smil/chunklist_b200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjUyNDY2OTU5LCJzZXNzaW9uIjoiMTkwLjUzLjMwLjIxMCIsIndoaXRlbGlzdCI6WyIxOTAuNTMuMzAuMjEwIl19LCJzaWduYXR1cmUiOiIxZDVhMDIwODA0MTAwYjk2OTdkNDkxNTk5MDc1NGZmNzgzMjVhN2VjIn0%3D
 
 #EXTINF:-1, NI, 
 
@@ -647,4 +643,10 @@ https://streamer103.neterra.tv/travel/travel_SD.m3u8
 
 #EXTINF:-1, TRAVEL MX, México Travel Channel
 https://stream-03.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZX0mObX-G2Egbh8Qc9n903VbYcqVmQoLCAtzaUVM_1HL)/dm/3/x7v76vf/s/live-1.m3u8#cell=lnyc
+
+#EXTINF:-1, TRAVEL MX, México Travel Channel
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZYQux4Af55qtY4Z28l_zjo6unEMwFrqMHDJEgFW17cHp)/dm/3/x7v76vf/s/live-0.m3u8
+
+#EXTINF:-1, TRAVEL MX, México Travel Channel
+https://stream-01.nyc.dailymotion.com/sec(0HE75RGSqqnhnSdEMl12ZYQux4Af55qtY4Z28l_zjo6unEMwFrqMHDJEgFW17cHp)/dm/3/x7v76vf/s/live-1.m3u8
 
